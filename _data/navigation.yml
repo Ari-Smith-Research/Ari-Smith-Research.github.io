@@ -1,0 +1,23 @@
+main:
+  - title: Contact
+    page: /contact/
+  - title: Academic
+    children:
+    - title: Bio
+      page: /academic-bio/
+    - title: Research Interests
+      page: /research-interests/
+    - title: Publications
+      page: /publications/
+    - title: Resume
+      page: /docs/resume/
+  - title: Music
+    children:
+    - title: Bio
+      page: /music-bio/
+    - title: Recordings
+      page: /recordings/
+    - title: Upcoming Events
+      page: /upcoming/
+    - title: Catalog of Works
+      page: /catalog-of-works/
