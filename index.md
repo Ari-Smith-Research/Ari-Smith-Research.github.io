@@ -1,5 +1,6 @@
 ---
-nav: sidebar
+sidebar:
+  nav: main
 ---
 
 <img src="DSC0289.jpg" width="450" height="300">
