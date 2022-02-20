@@ -1,4 +1,4 @@
-<img src="DSC0289.JPG" width="450" height="300">
+<img src="DSC0289.jpg" width="450" height="300">
 
 # Ari Smith (he/they)
 ### Academic (STS, Operations Research), Composer, Improviser
