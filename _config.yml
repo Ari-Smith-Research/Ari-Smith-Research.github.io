@@ -1,2 +1,24 @@
 theme: jekyll-theme-minimal
 title: Ari Smith's Professional Website
+
+sidebar:
+  - name: Contact
+    url: /contact/
+  - title: Academic
+  - name: Bio
+    url: /academic-bio/
+  - name: Research Interests
+    url: /research-interests/
+  - name: Publications
+    url: /publications/
+  - name: Resume
+    url: /docs/resume/
+  - title: Music
+  - name: Bio
+    url: /music-bio/
+  - name: Recordings
+    url: /recordings/
+  - name: Upcoming Events
+    url: /upcoming/
+  - name: Catalog of Works
+    url: /catalog/
