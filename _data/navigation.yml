@@ -1,23 +1,23 @@
 main:
   - title: Contact
-    page: /contact/
+    url: /contact/
   - title: Academic
     children:
     - title: Bio
-      page: /academic-bio/
+      url: /academic-bio/
     - title: Research Interests
-      page: /research-interests/
+      url: /research-interests/
     - title: Publications
-      page: /publications/
+      url: /publications/
     - title: Resume
-      page: /docs/resume/
+      url: /docs/resume/
   - title: Music
     children:
     - title: Bio
-      page: /music-bio/
+      url: /music-bio/
     - title: Recordings
-      page: /recordings/
+      url: /recordings/
     - title: Upcoming Events
-      page: /upcoming/
+      url: /upcoming/
     - title: Catalog of Works
-      page: /catalog-of-works/
+      url: /catalog-of-works/
