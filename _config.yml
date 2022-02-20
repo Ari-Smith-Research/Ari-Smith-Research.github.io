@@ -2,23 +2,25 @@ theme: jekyll-theme-minimal
 title: Ari Smith
 
 sidebar:
-  - name: Contact
-    url: /contact/
+  - title: Contact
+    page: /contact/
   - title: Academic
-  - name: Bio
-    url: /academic-bio/
-  - name: Research Interests
-    url: /research-interests/
-  - name: Publications
-    url: /publications/
-  - name: Resume
-    url: /docs/resume/
+    children:
+    - title: Bio
+      page: /academic-bio/
+    - title: Research Interests
+      page: /research-interests/
+    - title: Publications
+      page: /publications/
+    - title: Resume
+      page: /docs/resume/
   - title: Music
-  - name: Bio
-    url: /music-bio/
-  - name: Recordings
-    url: /recordings/
-  - name: Upcoming Events
-    url: /upcoming/
-  - name: Catalog of Works
-    url: /catalog-of-works/
+    children:
+    - title: Bio
+      page: /music-bio/
+    - title: Recordings
+      page: /recordings/
+    - title: Upcoming Events
+      page: /upcoming/
+    - title: Catalog of Works
+      page: /catalog-of-works/
