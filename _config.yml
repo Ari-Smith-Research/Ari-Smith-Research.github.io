@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Ari Smith
 
 sidebar:
-  nav: navigation
+  nav: main
