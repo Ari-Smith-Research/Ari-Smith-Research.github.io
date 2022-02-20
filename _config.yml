@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Ari Smith
 
 main:
-  - name: Contact
+  - title: Contact
     url: /contact/
   - title: Academic
   - name: Bio
