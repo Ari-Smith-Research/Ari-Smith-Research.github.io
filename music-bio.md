@@ -1,1 +1,3 @@
-
+---
+permalink: /music-bio/
+---
