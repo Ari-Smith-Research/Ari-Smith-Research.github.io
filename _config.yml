@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Ari Smith
 
-sidebar:
+main:
   - name: Contact
     url: /contact/
   - title: Academic
