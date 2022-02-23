@@ -2,5 +2,4 @@ plugins: jekyll-include-cache
 theme: minimal
 title: Ari Smith
 
-sidebar:
-  nav: main
+nav: main
