@@ -1,4 +1,4 @@
-plugins: jekyll-include-cache
+#plugins: jekyll-include-cache
 theme: minimal
 title: Ari Smith
 
