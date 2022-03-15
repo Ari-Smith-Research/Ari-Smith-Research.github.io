@@ -1,5 +1,5 @@
 ---
-sidenav:
+sidebar:
   nav: main
 ---
 
