@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 .sidenav {
   height: 100%;
-  width: 240px;
+  width: 220px;
   position: fixed;
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: #a1a1a1;
   overflow-x: hidden;
   padding-top: 20px;
 }
@@ -30,9 +30,10 @@
 }
 
 .sidenav b {
+  margin-left: 16px;
   padding: 6px 16px 6px 16px;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 14px;
   color: #818181;
   display: block;
   border: none;
@@ -59,7 +60,7 @@
 
 /* On mouse-over */
 .sidenav a:hover, .sidenav b:hover {
-  color: #f1f1f1;
+  color: #313131;
 }
 
 /* Main content */
