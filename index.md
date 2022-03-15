@@ -6,17 +6,17 @@
   <a href="contact">Contact</a>
   <c>Academic</c>
   <!-- <div class="dropdown-container"> -->
-    <b href="academic-bio">Bio</a>
-    <b href="research-interests">Research Interests</a>
-    <b href="publications">Publications</a>
-    <b href="resume">Resume</a>
+    <b href="academic-bio">Bio</b>
+    <b href="research-interests">Research Interests</b>
+    <b href="publications">Publications</b>
+    <b href="resume">Resume</b>
   <!-- </div> -->
   <c>Music</c>
   <!-- <div class="dropdown-container"> -->
-    <b href="music-bio">Bio</a>
-    <b href="recordings">Recordings</a>
-    <b href="upcoming">Upcoming Events</a>
-    <b href="catalog-of-works">Catalog of Scores</a>
+    <b href="music-bio">Bio</b>
+    <b href="recordings">Recordings</b>
+    <b href="upcoming">Upcoming Events</b>
+    <b href="catalog-of-works">Catalog of Scores</b>
   <!-- </div> -->
 </div>
 
