@@ -5,7 +5,7 @@
 <div class="sidenav">
   <a href="contact">Contact</a>
   <atitle href="academic-bio">Academic</atitle>
-  <asub href="academic-bio">Bio</asub>
+  <a href="academic-bio"><asub>Bio</asub></a>
   <asub href="research-interests">Research Interests</asub>
   <asub href="publications">Publications</asub>
   <asub href="resume">Resume</asub>
