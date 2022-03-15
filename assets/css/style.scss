@@ -37,7 +37,7 @@ footer {
   outline: none;
 }
 
-.sidenav b {
+.sidenav asub {
   margin-left: 16px;
   padding: 6px 16px 6px 16px;
   text-decoration: none;
@@ -52,7 +52,7 @@ footer {
   outline: none;
 }
 
-.sidenav c {
+.sidenav atitle {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 20px;
@@ -67,7 +67,7 @@ footer {
 }
 
 /* On mouse-over */
-.sidenav a:hover, .sidenav b:hover {
+.sidenav a:hover, .sidenav asub:hover {
   color: #212121;
 }
 
