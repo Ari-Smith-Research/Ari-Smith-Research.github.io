@@ -4,16 +4,16 @@
 
 <div class="sidenav">
   <a href="contact">Contact</a>
-  <c href="academic-bio">Academic</c>
-  <b href="academic-bio">Bio</b>
-  <b href="research-interests">Research Interests</b>
-  <b href="publications">Publications</b>
-  <b href="resume">Resume</b>
-  <c href="music-bio">Music</c>
-  <b href="music-bio">Bio</b>
-  <b href="recordings">Recordings</b>
-  <b href="upcoming">Upcoming Events</b>
-  <b href="catalog-of-works">Catalog of Scores</b>
+  <atitle href="academic-bio">Academic</atitle>
+  <asub href="academic-bio">Bio</asub>
+  <asub href="research-interests">Research Interests</asub>
+  <asub href="publications">Publications</asub>
+  <asub href="resume">Resume</asub>
+  <atitle href="music-bio">Music</atitle>
+  <asub href="music-bio">Bio</asub>
+  <asub href="recordings">Recordings</asub>
+  <asub href="upcoming">Upcoming Events</asub>
+  <asub href="catalog-of-works">Catalog of Scores</asub>
 </div>
 
 <img src="DSC0289.jpg" width="450" height="300">
