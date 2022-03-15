@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 .sidenav {
   height: 100%;
-  width: 200px;
+  width: 240px;
   position: fixed;
   z-index: 1;
   top: 0;
@@ -30,9 +30,9 @@
 }
 
 .sidenav b {
-  padding: 20px 8px 6px 16px;
+  padding: 6px 16px 6px 16px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 20px;
   color: #818181;
   display: block;
   border: none;
@@ -64,7 +64,7 @@
 
 /* Main content */
 .main {
-  margin-left: 0px; /* Same as the width of the sidenav */
+  margin-left: -200px; /* Same as the width of the sidenav */
   font-size: 20px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
