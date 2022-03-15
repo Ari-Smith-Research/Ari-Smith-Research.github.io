@@ -4,23 +4,19 @@
 
 <div class="sidenav">
   <a href="contact">Contact</a>
-  <button class="dropdown-btn">Academic
-    <i class="fa fa-caret-down"></i>
-  </button>
+  <c>Academic</c>
   <!-- <div class="dropdown-container"> -->
-    <a href="academic-bio">Bio</a>
-    <a href="research-interests">Research Interests</a>
-    <a href="publications">Publications</a>
-    <a href="resume">Resume</a>
+    <b href="academic-bio">Bio</a>
+    <b href="research-interests">Research Interests</a>
+    <b href="publications">Publications</a>
+    <b href="resume">Resume</a>
   <!-- </div> -->
-  <button class="dropdown-btn">Music
-    <i class="fa fa-caret-down"></i>
-  </button>
+  <c>Music</c>
   <!-- <div class="dropdown-container"> -->
-    <a href="music-bio">Bio</a>
-    <a href="recordings">Recordings</a>
-    <a href="upcoming">Upcoming Events</a>
-    <a href="catalog-of-works">Catalog of Scores</a>
+    <b href="music-bio">Bio</a>
+    <b href="recordings">Recordings</a>
+    <b href="upcoming">Upcoming Events</a>
+    <b href="catalog-of-works">Catalog of Scores</a>
   <!-- </div> -->
 </div>
 
