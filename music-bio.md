@@ -3,18 +3,18 @@ permalink: /music-bio/
 ---
 
 <div class="sidenav">
-  <a href="">Ari Smith</a>
-  <a href="contact">Contact</a>
-  <atitle href="academic-bio">Academic</atitle>
-  <a href="academic-bio"><asub>Bio</asub></a>
-  <a href="research-interests"><asub>Research Interests</asub></a>
-  <a href="publications"><asub>Publications</asub></a>
-  <a href="resume"><asub>Resume</asub></a>
+  <a href="../">Ari Smith</a>
+  <a href="../contact">Contact</a>
+  <atitle>Academic</atitle>
+  <a href="../academic-bio"><asub>Bio</asub></a>
+  <a href="../research-interests"><asub>Research Interests</asub></a>
+  <a href="../publications"><asub>Publications</asub></a>
+  <a href="../resume"><asub>Resume</asub></a>
   <atitle>Music</atitle>
-  <a href="music-bio"><asub>Bio</asub></a>
-  <a href="recordings"><asub>Recordings</asub></a>
-  <a href="upcoming"><asub>Upcoming Events</asub></a>
-  <a href="catalog-of-works"><asub>Catalog of Scores</asub></a>
+  <a href="../music-bio"><asub>Bio</asub></a>
+  <a href="../recordings"><asub>Recordings</asub></a>
+  <a href="../upcoming"><asub>Upcoming Events</asub></a>
+  <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
 Ari Smith (b. 1997) is a bassist, improviser, and composer spanning genres of jazz, experimental, and contemporary classical music, currently based in Madison, Wisconsin, where he is pursuing a Ph.D. in Industrial and Systems Engineering at UW Madison. In the Wisconsin area, Ari has been a particularly active member of the free jazz and free improvisation scenes, having shared the stage with artists such as Hanah Jon Taylor, Vincent Davis, Dushun Mosley, Isaiah Collier, Justin Dillard, and Junius Paul. In his through-composed work, Ari strives to explore scores as boundary objects/“power tools” that redistribute agencies across humans and nonhumans, and the potentialities of academic citation styles as a demonstration of dedication to others as well as a creative-expressive practice.
