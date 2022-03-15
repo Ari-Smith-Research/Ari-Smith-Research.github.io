@@ -3,6 +3,7 @@
 ---
 
 <div class="sidenav">
+  <a href="">Ari Smith</a>
   <a href="contact">Contact</a>
   <atitle href="academic-bio">Academic</atitle>
   <a href="academic-bio"><asub>Bio</asub></a>
