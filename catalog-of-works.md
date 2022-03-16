@@ -47,7 +47,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Works in Progress
 
-*Fragments of a Lover's Discourse: Cento-Madrigali* Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - 2022?, at least 35'
+*Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - 2022?, at least 35'
 
 \* texts used without permission
 
