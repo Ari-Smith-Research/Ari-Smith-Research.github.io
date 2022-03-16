@@ -2,6 +2,21 @@
 permalink: /academic-bio/
 ---
 
+<div class="sidenav">
+  <a href="../">Ari Smith</a>
+  <a href="../contact">Contact</a>
+  <atitle>Academic</atitle>
+  <a href="../academic-bio"><asub>Bio</asub></a>
+  <a href="../research-interests"><asub>Research Interests</asub></a>
+  <a href="../publications"><asub>Publications</asub></a>
+  <a href="../resume"><asub>Resume</asub></a>
+  <atitle>Music</atitle>
+  <a href="../music-bio"><asub>Bio</asub></a>
+  <a href="../recordings"><asub>Recordings</asub></a>
+  <a href="../upcoming"><asub>Upcoming Events</asub></a>
+  <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
+</div>
+
 I am a Ph.D. student at UW-Madison (since Fall 2019) in the department of Industrial and Systems Engineering, with a docroal minor in Science and Technology Studies, under the advising of professor Justin Boutilier. My academic interests include critical algorithm studies, sociotechnical infrastructures of algorithms and fairness in public policy and democratic theory, feminist philosophies of science and technology, and relations between preference, agency, and subject formation in systems of humans and optimization technologies. Current projects are focused on: inverse optimization as a method of observing/framing congressional gerrymandering; machine learning for predicting patient flow volumes in hospital emergency departments during covid-19; and feminist technoscience analyses of the infrastructures and deployments of preference elicitation algorithms. In relation with these projects, I am currently an honorary appointee in the Department of Emergency Medicine, a data science intern at UW Health Enterprise Analytics, and a Graduate Student Affiliate at the Holtz Center for Science and Technology Studies.
 
 I am also currently the TA for ISyE 323: Operations Research Deterministic Modelling
