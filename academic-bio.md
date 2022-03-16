@@ -7,9 +7,11 @@ I am a Ph.D. student at UW-Madison (since Fall 2019) in the department of Indust
 I am currently the TA for ISyE 323: Operations Research Deterministic Modelling
 
 And I have previously TA'd:
-ISyE 521: Machine Learning in Action for Industrial Engineers, Fall 2021,
-the equivalent course ISyE 601, Fall 2020.
+
+- ISyE 521: Machine Learning in Action for Industrial Engineers, Fall 2021,
+- the equivalent course ISyE 601, Fall 2020.
 
 Prior education:
-Oberlin College, B.A. in Math, minor in Computer Science, 2019
-Oberlin Conservatory, B.Mus. in Jazz Studies (Bass Performance), with secondary study in Classical Composition, 2019
+
+- Oberlin College, B.A. in Math, minor in Computer Science, 2019
+- Oberlin Conservatory, B.Mus. in Jazz Studies (Bass Performance), with secondary study in Classical Composition, 2019
