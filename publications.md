@@ -19,7 +19,7 @@ permalink: /publications/
 
 Robert Bosch, Abagael Cheng, and Ari Smith (2019). “Exploring Szpakowski’s Linear Ideas.” Proceedings of Bridges 2019: Mathematics, Art, Music, Architecture, Education, Culture. 21-28. http://archive.bridgesmathart.org/2019/bridges2019-21.html
 
-Papers in Progress
+#### Papers in Progress
 
 Ari Smith. “Preference Across Power: Algorithmic (Infra)structuring of the Preferring Subject”
 
