@@ -22,5 +22,7 @@ My varous research interests include
 - Feminist Philosophies of Technoscience
   - Particularly, the philosophies of Karen Barad, Susan Leigh Star, and Donna Haraway
 - Preference Elicitation Technologies
+  - In conjunction with Foucauldian perspectives on Power and the Subject
 - Applied Inverse Optimization
 - Sociotechnical Infrastructurings of Fairness and Democratic Theory
+  - Discourses surrounding Gerrymandering, quanitification of fairness, and distributions of agency
