@@ -17,7 +17,7 @@ permalink: /music-bio/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-<img src="MusicBioPic.jpg" width="450" height="300">
+<img src="MusicBioPic.JPG" width="450" height="300">
 
 Ari Smith (b. 1997) is a bassist, improviser, and composer spanning genres of jazz, experimental, and contemporary classical music, currently based in Madison, Wisconsin, where he is pursuing a Ph.D. in Industrial and Systems Engineering at UW Madison. In the Wisconsin area, Ari has been a particularly active member of the free jazz and free improvisation scenes, having shared the stage with artists such as Hanah Jon Taylor, Vincent Davis, Dushun Mosley, Isaiah Collier, Justin Dillard, and Junius Paul. In his through-composed work, Ari strives to explore scores as boundary objects/“power tools” that redistribute agencies across humans and nonhumans, and the potentialities of academic citation styles as a demonstration of dedication to others as well as a creative-expressive practice.
 
