@@ -16,7 +16,7 @@ permalink: /research-interests/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-My varous research interests include
+My various research interests include:
 
 - Critical Algorithm Studies
 - Applied Inverse Optimization
