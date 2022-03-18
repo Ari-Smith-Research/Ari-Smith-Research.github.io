@@ -31,7 +31,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *Sculpture Garden in Wood, Ivory, Bells, and Ceramics (After Masahiko Kimura, Jan Holschuh, Haegue Yang, and Kenneth Price respectively)* for 2-Channel Fixed Media - 2020 6.5'
 
-*Thirteen Ways of Looking at the Same River Twice (After Heraclitus, D.T. Suzuki, and Wallace Stevens)* for String Quartet and Jazz Trio (written for the RSMI Bridges Competition) - 2020, 10'
+*Thirteen Ways of Looking at the Same River Twice (After Heraclitus, D.T. Suzuki, and Wallace Stevens)* for String Quartet and Jazz Trio - 2020, 10'
 
 *Se non vero, trovato (after Giordano Bruno, Frances Yates, Morton Feldman, Andy Goldsworthy, and Stefania Heim)* for Solo Pianist - 2020, 14'
 
