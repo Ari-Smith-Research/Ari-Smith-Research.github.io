@@ -21,6 +21,10 @@ permalink: /recordings/
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=221179530/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://avoidancepolicy.bandcamp.com/album/junct">Junct by Ari Smith/Tim Russell</a></iframe>
 
+*If on a Winter's Night a Thrill...  (After Italo Calvino)*, electronics/sampling, 2021
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1370659009&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ari-smith-658926111" title="Ari Smith" target="_blank" style="color: #cccccc; text-decoration: none;">Ari Smith</a> · <a href="https://soundcloud.com/ari-smith-658926111/sets/if-on-a-summers-night-a-thrill" title="If on a Summer&#x27;s Night (a Thrill)... (After Italo Calvino)" target="_blank" style="color: #cccccc; text-decoration: none;">If on a Summer&#x27;s Night (a Thrill)... (After Italo Calvino)</a></div>
+
 *Organ Trios*, with various friends, 2019
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2449530586/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://arismith.bandcamp.com/album/organ-trios-2">Organ Trios by Ari Smith</a></iframe>
