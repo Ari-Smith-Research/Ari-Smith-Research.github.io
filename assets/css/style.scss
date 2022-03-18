@@ -4,10 +4,17 @@
 @import "{{ site.theme }}";
 header {
   display: none;
+  position: fixed;
+}
+
+.masthead {  
+   position: fixed;
+   top: 0;
 }
 
 footer {
   display: none;
+  position: fixed;
 }
 
 .sidenav {
