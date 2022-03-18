@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 header {
   display: none;
-  position: fixed;
+  top: 0;
+  left: 0;
+  width: 225px;
+  position: absolute;
 }
 
 .masthead {  
