@@ -19,6 +19,7 @@
 
 <img src="DSC0289.jpg" width="450" height="300">
 
-# Ari Smith (he/they)
-### Academic (STS, Operations Research), Composer, Improviser
+# Ari Smith
+### Academic (Operations Research, STS), Composer, Improviser
 #### Ph.D. Student - Industral and Systems Engineering - UW Madison
+#### [Analytics for Human Development Lab (A4HD)](a4hd.github.io)
