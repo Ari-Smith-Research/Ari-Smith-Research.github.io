@@ -19,10 +19,11 @@ permalink: /research-interests/
 My varous research interests include
 
 - Critical Algorithm Studies
-- Feminist Philosophies of Technoscience
-  - Particularly, the philosophies of Karen Barad, Susan Leigh Star, and Donna Haraway
-- Preference Elicitation Technologies
-  - In conjunction with Foucauldian perspectives on Power and the Subject
 - Applied Inverse Optimization
 - Sociotechnical Infrastructurings of Fairness and Democratic Theory
-  - Material-Discursive practices that engage concepts of Gerrymandering, the quantification of fairness, and redistribution of agency
+  - How algorithmic material-discursive practices engage concepts of Gerrymandering, the quantification of fairness, and redistributions of agency
+- Preference Elicitation Technologies
+  - In conjunction with Foucauldian perspectives on Power and the Subject
+- Feminist Philosophies of Technoscience
+  - Particularly, the philosophies of Karen Barad, Susan Leigh Star, and Donna Haraway
+ 
