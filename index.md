@@ -22,4 +22,4 @@
 # Ari Smith
 ### Academic (Operations Research, STS), Composer, Improviser
 #### Ph.D. Student - Industral and Systems Engineering - UW Madison
-#### [Analytics for Human Development Lab (A4HD)](a4hd.github.io)
+#### [Analytics for Human Development Lab (A4HD)](https://a4hd.github.io)
