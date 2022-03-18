@@ -1,3 +1,28 @@
 ---
 permalink: /publications/
 ---
+
+<div class="sidenav">
+  <a href="../">Ari Smith</a>
+  <a href="../contact">Contact</a>
+  <atitle>Academic</atitle>
+  <a href="../academic-bio"><asub>Bio</asub></a>
+  <a href="../research-interests"><asub>Research Interests</asub></a>
+  <a href="../publications"><asub>Publications</asub></a>
+  <a href="../Ari Smith Resume as of 2022-02-11.pdf" download><asub>Resume</asub></a>
+  <atitle>Music</atitle>
+  <a href="../music-bio"><asub>Bio</asub></a>
+  <a href="../recordings"><asub>Recordings</asub></a>
+  <a href="../upcoming"><asub>Upcoming Events</asub></a>
+  <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
+</div>
+
+Robert Bosch, Abagael Cheng, and Ari Smith (2019). “Exploring Szpakowski’s Linear Ideas.” Proceedings of Bridges 2019: Mathematics, Art, Music, Architecture, Education, Culture. 21-28. http://archive.bridgesmathart.org/2019/bridges2019-21.html
+
+Papers in Progress
+
+Ari Smith. “Preference Across Power: Algorithmic (Infra)structuring of the Preferring Subject”
+
+Ari Smith and Justin Boutilier. “Generalized Inverse Mixed-Integer Optimization as a Diagnostic of Congressional Gerrymandering”
+
+Ari Smith, Frank Liao, John Mayer, Brian Patterson, Manish Shah, Michael Pulia, Radha Nagarajan, and Justin Boutilier. “Preserved and Lost Utilities of Emergency Department Surge Prediction Models Across Site Transfers and Sudden Drifts from COVID-19”
