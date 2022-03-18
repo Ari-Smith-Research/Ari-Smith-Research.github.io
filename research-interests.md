@@ -25,4 +25,4 @@ My varous research interests include
   - In conjunction with Foucauldian perspectives on Power and the Subject
 - Applied Inverse Optimization
 - Sociotechnical Infrastructurings of Fairness and Democratic Theory
-  - Discourses surrounding Gerrymandering, quanitification of fairness, and distributions of agency
+  - Material-Discursive practices that engage concepts of Gerrymandering, the quantification of fairness, and redistribution of agency
