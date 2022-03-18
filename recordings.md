@@ -17,4 +17,10 @@ permalink: /recordings/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-Coming Soon!
+*Junct*, with Tim Russell, 2020
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=221179530/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://avoidancepolicy.bandcamp.com/album/junct">Junct by Ari Smith/Tim Russell</a></iframe>
+
+*Organ Trios*, with various friends, 2019
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2449530586/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://arismith.bandcamp.com/album/organ-trios-2">Organ Trios by Ari Smith</a></iframe>
