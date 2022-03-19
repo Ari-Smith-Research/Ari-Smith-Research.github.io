@@ -29,7 +29,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *Death and Transliteration* for Mezzo-Soprano and Cellist (text by the composer) - 2021, 2'
 
-*Sculpture Garden in Wood, Ivory, Bells, and Ceramics (After Masahiko Kimura, Jan Holschuh, Haegue Yang, and Kenneth Price respectively)* for 2-Channel Fixed Media - 2020 6.5'
+*Sculpture Garden in Wood, Ivory, Bells, and Ceramics (After Masahiko Kimura, Jan Holschuh, Haegue Yang, and Kenneth Price respectively)* for 2-Channel Fixed Media - 2020, 6.5'
 
 *Thirteen Ways of Looking at the Same River Twice (After Heraclitus, D.T. Suzuki, and Wallace Stevens)* for String Quartet and Jazz Trio - 2020, 10'
 
@@ -47,7 +47,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Works in Progress
 
-*Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - 2022?, at least 35'
+*Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - at least 35'
 
 \* texts used without permission
 
