@@ -17,7 +17,7 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-April 8th. Arts and Literature Laboratory (Madison), with Luke Leavitt and the Levitations
+April 8th. Arts + Literature Laboratory (Madison), with Luke Leavitt and the Levitations
 
 April 20th. The Rigby (Madison), with Luke Leavitt and the Levitations
 
