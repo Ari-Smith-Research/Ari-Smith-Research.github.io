@@ -19,13 +19,12 @@ permalink: /catalog-of-works/
 
 Please contact me if you wish to perform a piece or get access to a score.
 
-<img src="../Score Excerpt for Website.png" width="450px" height="auto" style="padding-bottom: 0px; margin-bottom: 0px;">
-
+<img src="../Score Excerpt for Website.png" width="400px" height="auto" style="padding-bottom: 0px; margin-bottom: 0px;">  
 (Score Excerpt from *Contour Without Cut*)
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
-*Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boudary Object (After Susan Leigh Star)* for String Quartet - 2022, 18'
+*Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boundary Object (After Susan Leigh Star)* for String Quartet - 2022, 18'
 
 *If on a Winter's Night a Thrill... (After Italo Calvino)* for 2-Channel Fixed Media - 2021, 6'42"
 
