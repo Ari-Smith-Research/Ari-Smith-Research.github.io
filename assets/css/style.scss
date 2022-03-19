@@ -11,6 +11,10 @@ header {
   float: left;
 }
 
+img {
+  object-fit: cover;
+}
+
 .masthead {  
    float: left;
    position: fixed;
