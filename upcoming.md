@@ -24,3 +24,5 @@ April 20th. The Rigby (Madison), with Luke Leavitt and the Levitations
 June 10th. Madison Jazz Festival "Strollin' East", with Laminal Animil
 
 June 11th. Cafe Coda (Madison), with Laminal Animil plus guests
+
+June 16th. Woodland Pattern (Milwaukee), with Laminal Animil
