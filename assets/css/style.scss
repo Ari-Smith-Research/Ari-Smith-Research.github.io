@@ -12,6 +12,7 @@ header {
 }
 
 .masthead {  
+   float: left;
    position: fixed;
    top: 0;
 }
@@ -87,6 +88,7 @@ footer {
   margin-left: 300px; /* Same as the width of the sidenav */
   font-size: 20px; /* Increased text to enable scrolling */
   padding: 0px 200px;
+  float: right;
 }
 
 /* Add an active class to the active dropdown button */
