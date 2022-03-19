@@ -21,6 +21,8 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 <img src="Score Excerpt for Website.png" width="450px" height="auto">
 
+(Score Excerpt from *Contour Without Cut*)
+
 #### Selected Completed Works (in Reverse Chronological Order)
 
 *Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boudary Object (After Susan Leigh Star)* for String Quartet - 2022, 18'
