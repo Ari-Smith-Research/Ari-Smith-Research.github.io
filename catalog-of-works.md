@@ -19,7 +19,7 @@ permalink: /catalog-of-works/
 
 Please contact me if you wish to perform a piece or get access to a score.
 
-<img src="Score Excerpt for Website.png" width="450px" height="auto">
+<img src="../Score Excerpt for Website.png" width="450px" height="auto">
 
 (Score Excerpt from *Contour Without Cut*)
 
