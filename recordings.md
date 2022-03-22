@@ -29,6 +29,3 @@ permalink: /recordings/
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2449530586/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://arismith.bandcamp.com/album/organ-trios-2">Organ Trios by Ari Smith</a></iframe>
 
-*Triptychn'*, Laminal Animil, 2022
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fluke.leavitt.75%2Fposts%2F1598469943885021&show_text=false&width=500" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
