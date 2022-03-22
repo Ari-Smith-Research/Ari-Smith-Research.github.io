@@ -55,3 +55,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 \* texts used without permission
 
 *Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
+
+#### Other
+
+[Seare Farhat](https://searefarhat.weebly.com/)'s composition *Body Counterpoint (after Paul Valery)* for Mezzo-Soprano and Alto Flute (or Violin) (2019) sets a text of the same name that I wrote
