@@ -26,4 +26,5 @@ My various research interests include:
   - In conjunction with Foucauldian perspectives on Power and the Subject
 - Feminist Philosophies of Technoscience
   - Particularly, the philosophies of Karen Barad, Susan Leigh Star, and Donna Haraway
- 
+- Conceptual Drift in Machine Learning, through an STS Lens
+  - Understanding drift across differentials of time, also space, social power, etc.
