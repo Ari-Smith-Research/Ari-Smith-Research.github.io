@@ -17,6 +17,8 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
+March 27th. Cafe Coda (Madison), 'Night of the Improviser' with Jim Baker
+
 April 8th. Arts + Literature Laboratory (Madison), with Luke Leavitt and the Levitations
 
 April 20th. The Rigby (Madison), with Luke Leavitt and the Levitations
