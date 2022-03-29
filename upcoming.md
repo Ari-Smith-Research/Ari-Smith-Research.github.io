@@ -21,10 +21,14 @@ March 27th. Cafe Coda (Madison), 'Night of the Improviser' with Jim Baker
 
 April 8th. Arts + Literature Laboratory (Madison), with Luke Leavitt and the Levitations
 
+April 9th. Cafe Code (Madison), Hosting Late Night Jazz Jam
+
 April 20th. The Rigby (Madison), with Luke Leavitt and the Levitations
 
-June 10th. Madison Jazz Festival "Strollin' East", with Laminal Animil
+April 23rd. Cafe Code (Madison), Hosting Late Night Jazz Jam
 
-June 11th. Cafe Coda (Madison), with Laminal Animil plus guests
+April 30th. Cafe Code (Madison), Hosting Late Night Jazz Jam
+
+June 10th. Madison Jazz Festival "Strollin' East", with Laminal Animil
 
 June 16th. Woodland Pattern (Milwaukee), with Laminal Animil
