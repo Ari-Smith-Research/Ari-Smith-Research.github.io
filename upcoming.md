@@ -31,4 +31,10 @@ April 30th. Cafe Coda (Madison), Hosting Late Night Jazz Jam
 
 June 10th. Madison Jazz Festival "Strollin' East", with Laminal Animil
 
+June 11th. Cafe Coda (Madison), with Luke Leavitt, Tim Russell, Peter Mathistad, and Anthony Utehs
+
 June 16th. Woodland Pattern (Milwaukee), with Laminal Animil
+
+June 17th. UW Madison Union Terrace, with SPRING (Henry Ptacek, Charlie Palm, Sahada Buckley, Luke Leavitt, Ari Smith)
+
+July 19th. The Rigby (Madison), with Luke Leavitt, Tim Russell, Peter Mathistad, and Anthony Utehs
