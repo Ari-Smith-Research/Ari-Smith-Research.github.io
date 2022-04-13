@@ -17,12 +17,6 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-March 27th. Cafe Coda (Madison), 'Night of the Improviser' with Jim Baker
-
-April 8th. Arts + Literature Laboratory (Madison), with Luke Leavitt and the Levitations
-
-April 9th. Cafe Coda (Madison), Hosting Late Night Jazz Jam (with Laminal Animil)
-
 April 20th. The Rigby (Madison), with Luke Leavitt and the Levitations
 
 April 23rd. Cafe Coda (Madison), Hosting Late Night Jazz Jam
@@ -31,10 +25,10 @@ April 30th. Cafe Coda (Madison), Hosting Late Night Jazz Jam
 
 June 10th. Madison Jazz Festival "Strollin' East", with Laminal Animil
 
-June 11th. Cafe Coda (Madison), with Luke Leavitt, Tim Russell, Peter Mathistad, and Anthony Utehs
-
 June 16th. Woodland Pattern (Milwaukee), with Laminal Animil
 
 June 17th. UW Madison Union Terrace, with SPRING (Henry Ptacek, Charlie Palm, Sahada Buckley, Luke Leavitt, Ari Smith)
+
+July 8th. UW Madison Terrace, with Luke Leavitt and the Levitations
 
 July 19th. The Rigby (Madison), with Luke Leavitt, Tim Russell, Peter Mathistad, and Anthony Utehs
