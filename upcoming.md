@@ -19,17 +19,19 @@ permalink: /upcoming/
 
 April 23rd. Cafe Coda (Madison), Hosting Late Night Jazz Jam
 
-April 26th. Andy Jones' Degree Recital (with the Levitations)
+April 26th. Morphy Hall (UW Madison), Andy Jones' Degree Recital (with the Levitations)
 
 April 30th. Cafe Coda (Madison), Hosting Late Night Jazz Jam
 
-May 4th. Collin Hall (UW Madison), Charlie Palm's Degree Recital
+May 4th. Collins Hall (UW Madison), Charlie Palm's Degree Recital
 
 May 14th. Cafe Coda (Madison), Hosting Late Night Jazz Jam
 
 May 28th. Cafe Coda (Madison), Hosting Late Night Jazz Jam
 
 June 10th. Madison Jazz Festival "Strollin' East", with Laminal Animil
+
+June 11th. Cafe Coda (Madison), with Luke Leavitt, Tim Russell, Peter Mathistad, and Anthony Utehs
 
 June 16th. Woodland Pattern (Milwaukee), with Laminal Animil
 
