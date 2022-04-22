@@ -21,7 +21,7 @@ Robert Bosch, Abagael Cheng, and Ari Smith (2019). “Exploring Szpakowski’s L
 
 #### Papers in Progress
 
-Ari Smith. “Preference Across Power: Algorithmic (Infra)structuring of the Preferring Subject”
+Ari Smith. “Preference Across Power: Algorithmic Infrastructuring of the Preferring Subject”
 
 Ari Smith and Justin Boutilier. “Generalized Inverse Mixed-Integer Optimization as a Diagnostic of Congressional Gerrymandering”
 
