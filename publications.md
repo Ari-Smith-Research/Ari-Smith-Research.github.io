@@ -23,6 +23,6 @@ Robert Bosch, Abagael Cheng, and Ari Smith (2019). “Exploring Szpakowski’s L
 
 Ari Smith. “Preference Across Power: Algorithmic Infrastructuring of the Preferring Subject”
 
-Ari Smith and Justin Boutilier. “Generalized Inverse Mixed-Integer Optimization as a Diagnostic of Congressional Gerrymandering”
+Ari Smith and Justin Boutilier. “Generalized Inverse Mixed-Integer Optimization as a Technology for Observing Congressional Gerrymandering”
 
-Ari Smith, Frank Liao, John Mayer, Brian Patterson, Manish Shah, Michael Pulia, Radha Nagarajan, and Justin Boutilier. “Preserved and Lost Utilities of Emergency Department Surge Prediction Models Across Site Transfers and Sudden Drifts from COVID-19”
+Ari Smith, Brian Patterson, Michael Pulia, John Mayer, Rebecca Schwei, Radha Nagarajan, Frank Liao, Manish Shah, and Justin Boutilier. “Multisite Evaluation of Emergency Department Surge Prediction Models Before and During the COVID-19 Pandemic”
