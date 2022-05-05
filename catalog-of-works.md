@@ -44,17 +44,20 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *A Hopeless Semantic* for Solo Contrabassist - 2019, 6'
 
-*Of Species in Gradus, in Steps of my Gait* for Solo Guitarist (after John Dowland) - 2019, 5'
+*Of Species in Gradus, in Steps of my Gait* for Solo Guitarist (after John Dowland) - 2019, 5' <br />
+&emsp; also available in an arrangement for Violinist and Cellist
 
 *Skylines and (B-2) Spirits* for Solo Harpsichordist - 2018, 5'
 
 #### Works in Progress
 
+*Shared Lives and Spaces (SLS)* for Violinist and Cellist (after Susan Leigh Star)
+
+*Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
+
 *Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - at least 35'
 
 \* texts used without permission
-
-*Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
 
 #### Other
 
