@@ -24,7 +24,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
-*Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boundary Object (After Susan Leigh Star)* for String Quartet - 2022, 18'
+*Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boundary Object (After Susan Leigh Star)* for String Quartet - 2022, 17'
 
 *If on a Winter's Night a Thrill... (After Italo Calvino)* for 2-Channel Fixed Media - 2021, 6'42"
 
