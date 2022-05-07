@@ -28,7 +28,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *If on a Winter's Night a Thrill... (After Italo Calvino)* for 2-Channel Fixed Media - 2021, 6'42"
 
-*Contour Without Cut (Karen Barad in Penthesilea)* (after Bruno Latour, Karen Barad, George Lewis, Roscoe Mitchell, Sam Gilliam, and Italo Calvino) for Celesta-Player - 2021, 10'
+*Contour Without Cut (Barad in Penthesilea)* (after Karen Barad,  Sam Gilliam, Italo Calvino, Bruno Latour, George Lewis, and Roscoe Mitchell) for Celesta-Player - 2021, 10'
 
 *Death and Transliteration* for Mezzo-Soprano and Cellist (text by the composer) - 2021, 2'
 
@@ -51,7 +51,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Works in Progress
 
-*Shared Lives and Spaces (SLS)* for Violinist and Cellist (after Susan Leigh Star)
+*Shared Lives and Spaces (SLS)* for Violinist and Cellist (after Susan Leigh Star) commissioned by Sahada Buckley and Trace Johnson
 
 *Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
 
