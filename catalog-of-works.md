@@ -44,8 +44,8 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *A Hopeless Semantic* for Solo Contrabassist - 2019, 6'
 
-*Of Species in Gradus, in Steps of my Gait* for Solo Guitarist (after John Dowland) - 2019, 5' <br />
-&emsp; also available in an arrangement for Violinist and Cellist
+*Of Species in Gradus, in Steps of my Gait* for Solo Guitarist (after John Dowland and Hamish Fulton) - 2019, 5' <br />
+&emsp; also available in an arrangement (2022) for Violinist and Cellist
 
 *Skylines and (B-2) Spirits* for Solo Harpsichordist - 2018, 5'
 
