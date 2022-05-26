@@ -17,11 +17,6 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-April 30th. Cafe Coda (Madison), Hosting Late Night Jazz Jam
-
-May 4th. Collins Hall (UW Madison), Charlie Palm's Degree Recital
-
-May 14th. Cafe Coda (Madison), Hosting Late Night Jazz Jam
 
 May 28th. Cafe Coda (Madison), Hosting Late Night Jazz Jam
 
@@ -29,12 +24,16 @@ June 10th. Madison Jazz Festival "Strollin' East", with Laminal Animil
 
 June 16th. Woodland Pattern (Milwaukee), with Laminal Animil
 
-June 17th. UW Madison Union Terrace, with SPRING (Henry Ptacek, Charlie Palm, Sahada Buckley, Luke Leavitt, Ari Smith)
+June 17th. UW Madison Union Terrace, with SPRING (Henry Ptacek, Maggie Cousin, Sahada Buckley, Luke Leavitt, Aaron Gochberg, Ari Smith)
 
 July 8th. UW Madison Terrace, with Luke Leavitt and the Levitations
 
-July 19th. The Rigby (Madison), with Luke Leavitt, Tim Russell, Peter Mathistad, and Anthony Utehs
+July 19th. The Rigby, with Luke Leavitt, Tim Russell, Peter Mathistad, and Anthony Utehs
 
 July 27th. Jazz at 5 (Madison Capitol Square), with the Feestet
 
-August 6. Cafe Coda, with Devin Drobka and Luke Leavitt
+July 29th. Dark Horse Art Bar, with the Brennan Connors Vibes Trio
+
+August 6th. Cafe Coda, with Devin Drobka and Luke Leavitt
+
+August 12th. Painted Forest (Valton), Sahada Buckley and Trace Johnson perform chamber music, including a piece by Ari Smith
