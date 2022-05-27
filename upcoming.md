@@ -18,8 +18,6 @@ permalink: /upcoming/
 </div>
 
 
-May 28th. Cafe Coda, Hosting Late Night Jazz Jam
-
 June 10th. Madison Jazz Festival "Strollin' East" location TBA, with Laminal Animil
 
 June 11th. Cafe Coda, Hosting Late Night Jazz Jam
