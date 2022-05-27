@@ -25,13 +25,13 @@ Please contact me if you wish to perform a piece or get access to a score.
 #### Selected Completed Works (in Reverse Chronological Order)
 
 *Shared Lives and Spaces (SLS)* for Violinist and Cellist (after the Care Collective and Susan Leigh Star) - 2022, 10' <br />
-&emsp; commissioned by Sahada Buckley and Trace Johnson
+&emsp; commissioned by Sahada Buckley and [Trace Johnson](http://traceljohnson.com/bio/)
 
 *Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boundary Object (After Susan Leigh Star)* for String Quartet - 2022, 17'
 
 *If on a Winter's Night a Thrill... (After Italo Calvino)* for 2-Channel Fixed Media - 2021, 6'42"
 
-*Contour Without Cut (Barad in Penthesilea)* (after Karen Barad,  Sam Gilliam, Italo Calvino, Bruno Latour, George Lewis, and Roscoe Mitchell) for Celesta-Player - 2021, 10'
+*Contour Without Cut (Barad in Penthesilea)* (after Karen Barad, Italo Calvino, Sam Gilliam, Bruno Latour, George Lewis, and Roscoe Mitchell) for Celesta-Player - 2021, 10'
 
 *Death and Transliteration* for Mezzo-Soprano and Cellist (text by the composer) - 2021, 2'
 
@@ -42,6 +42,8 @@ Please contact me if you wish to perform a piece or get access to a score.
 *Se non vero, trovato (after Giordano Bruno, Frances Yates, Morton Feldman, Andy Goldsworthy, and Stefania Heim)* for Solo Pianist - 2020, 14'
 
 *Form Against Ornament Rends the Firmament, While the Melody-Mediator Made Mends with Its Filament (Variations on Lorem Ipsum)* for Four-Octave Carillon (or Celesta, or Four-Octave Vibraphone) - 2019, 7'
+
+*Sonnet for the Woodlands* for Pianist and Spoken Word (either live, or pre-recorded and emanating from inside the piano) (text by the composer) - 2019, 4’
 
 *Gemini Contrived (For Seare Farhat)* for Solo Percussionist (Prepared Vibraphone, 29" Timpano, and Riveted Ride Cymbal) - 2019, variable duration
 
