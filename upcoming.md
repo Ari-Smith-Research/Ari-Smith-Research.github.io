@@ -30,7 +30,7 @@ June 17th. UW Madison Union Terrace, with Henry Ptacek, Maggie Cousin, Sahada Bu
 
 June 17th. Robinia Courtyard, with Luke Leavitt and the Levitations
 
-June 21st. with Adam Czerpisnki, Jon Hoel, and Henry Ptacek
+June 21st. Location TBA, with Adam Czerepisnki, Jon Hoel, and Henry Ptacek
 
 June 25th. Cafe Coda, Hosting Late Night Jazz Jam
 
@@ -45,3 +45,5 @@ July 29th. Dark Horse Art Bar, with the Brennan Connors Standards Trio
 August 6th. Cafe Coda, with Devin Drobka and Luke Leavitt
 
 August 12th. Painted Forest (Wonewoc), Sahada Buckley and Trace Johnson perform chamber music, including a piece by Ari Smith
+
+September 30th. Garver Feed Mill, Bluestem "Sound Tile" Series, Sahada Buckley and Trace Johnson perform chamber music, including a piece by Ari Smith
