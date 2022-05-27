@@ -18,13 +18,21 @@ permalink: /upcoming/
 </div>
 
 
-May 28th. Cafe Coda (Madison), Hosting Late Night Jazz Jam
+May 28th. Cafe Coda, Hosting Late Night Jazz Jam
 
-June 10th. Madison Jazz Festival "Strollin' East", with Laminal Animil
+June 10th. Madison Jazz Festival "Strollin' East" location TBA, with Laminal Animil
+
+June 11th. Cafe Coda, Hosting Late Night Jazz Jam
 
 June 16th. Woodland Pattern (Milwaukee), with Laminal Animil
 
-June 17th. UW Madison Union Terrace, with SPRING (Henry Ptacek, Maggie Cousin, Sahada Buckley, Luke Leavitt, Aaron Gochberg, Ari Smith)
+June 17th. UW Madison Union Terrace, with Henry Ptacek, Maggie Cousin, Sahada Buckley, Aaron Gochberg, and Luke Leavitt
+
+June 17th. Robinia Courtyard, with Luke Leavitt and the Levitations
+
+June 21st. with Adam Czerpisnki, Jon Hoel, and Henry Ptacek
+
+June 25th. Cafe Coda, Hosting Late Night Jazz Jam
 
 July 8th. UW Madison Terrace, with Luke Leavitt and the Levitations
 
