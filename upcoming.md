@@ -32,8 +32,8 @@ July 19th. The Rigby, with Luke Leavitt, Tim Russell, Peter Mathistad, and Antho
 
 July 27th. Jazz at 5 (Madison Capitol Square), with the Feestet
 
-July 29th. Dark Horse Art Bar, with the Brennan Connors Vibes Trio
+July 29th. Dark Horse Art Bar, with the Brennan Connors Standards Trio
 
 August 6th. Cafe Coda, with Devin Drobka and Luke Leavitt
 
-August 12th. Painted Forest (Valton), Sahada Buckley and Trace Johnson perform chamber music, including a piece by Ari Smith
+August 12th. Painted Forest (Wonewoc), Sahada Buckley and Trace Johnson perform chamber music, including a piece by Ari Smith
