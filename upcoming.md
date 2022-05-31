@@ -22,7 +22,7 @@ June 10th, 9:00. Arts and Literature Lab, as part of Madison Jazz Festival "Stro
 
 June 11th, 11:00. Cafe Coda, Hosting Late Night Jazz Jam
 
-June 16th. Woodland Pattern (Milwaukee), with Laminal Animil
+June 16th, 7:00. Woodland Pattern (Milwaukee), with Laminal Animil
 
 June 17th. UW Madison Union Terrace, with Henry Ptacek, Maggie Cousin, Sahada Buckley, Aaron Gochberg, and Luke Leavitt
 
