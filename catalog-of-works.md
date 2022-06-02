@@ -24,7 +24,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
-*Attending to Care* for Violinist and Cellist (after the Care Collective and Susan Leigh Star) - 2022, 10' <br />
+*To Attend to (Two Attend Two)* for Violinist and Cellist (after the Care Collective and Susan Leigh Star) - 2022, 10' <br />
 &emsp; commissioned by Sahada Buckley and [Trace Johnson](http://traceljohnson.com/bio/)
 
 *Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boundary Object (After Susan Leigh Star)* for String Quartet - 2022, 17'
