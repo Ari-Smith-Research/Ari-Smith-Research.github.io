@@ -20,15 +20,17 @@ permalink: /upcoming/
 
 June 10th, 9:00. Arts and Literature Lab, as part of Madison Jazz Festival "Strollin' East", with Laminal Animil
 
-June 11th, 11:00. Cafe Coda, Hosting Late Night Jazz Jam
+June 11th, 11:00PM. Cafe Coda, Hosting Late Night Jazz Jam
 
 June 16th, 7:00. Woodland Pattern (Milwaukee), with Laminal Animil
 
 June 17th. UW Madison Union Terrace, with Henry Ptacek, Maggie Cousin, Sahada Buckley, Aaron Gochberg, and Luke Leavitt
 
-June 17th. Robinia Courtyard, with Luke Leavitt and the Levitations
+June 17th. Robinia Courtyard, with Sorsin Carr 'Country' (Luke Leavitt and Tim Russell)
 
 June 21st, 6:00. 9618 Tiercel Dr, with Adam Czerepisnki, Jon Hoel, and Henry Ptacek
+
+June 23rd. Garver Feed Mill, "Sound Tile" Series with series director Luke Leavitt
 
 June 25th, 11:00. Cafe Coda, Hosting Late Night Jazz Jam
 
@@ -36,12 +38,8 @@ July 1st. Communication, with Laminal Animil
 
 July 8th. UW Madison Terrace, with Luke Leavitt and the Levitations
 
-July 19th. The Rigby, with Luke Leavitt, Tim Russell, Peter Mathistad, and Anthony Utehs
-
 July 27th. Jazz at 5 (Madison Capitol Square), with the Feestet
 
 July 29th, 9:00. Dark Horse Art Bar, with the Brennan Connors Standards Trio
 
 August 12th. Painted Forest (Wonewoc), Sahada Buckley and Trace Johnson perform chamber music, including a piece by Ari Smith
-
-September 30th. Garver Feed Mill, Bluestem "Sound Tile" Series, Sahada Buckley and Trace Johnson perform chamber music, including a piece by Ari Smith
