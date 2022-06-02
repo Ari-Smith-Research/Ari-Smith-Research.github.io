@@ -34,7 +34,7 @@ June 23rd. Garver Feed Mill, "Sound Tile" Series with series director Luke Leavi
 
 June 25th, 11:00. Cafe Coda, Hosting Late Night Jazz Jam
 
-July 1st. Communication, with Laminal Animil
+July 1st. Communication Madison, with Laminal Animil
 
 July 8th. UW Madison Terrace, with Luke Leavitt and the Levitations
 
@@ -43,3 +43,5 @@ July 27th. Jazz at 5 (Madison Capitol Square), with the Feestet
 July 29th, 9:00. Dark Horse Art Bar, with the Brennan Connors Standards Trio
 
 August 12th. Painted Forest (Wonewoc), Sahada Buckley and Trace Johnson perform chamber music, including a piece by Ari Smith
+
+September 24. Communication Madison, with Luke Leavitt and the Levitations
