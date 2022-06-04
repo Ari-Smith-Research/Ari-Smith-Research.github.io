@@ -24,13 +24,13 @@ June 11th, 11:00PM. Cafe Coda, Hosting Late Night Jazz Jam
 
 June 16th, 7:00. Woodland Pattern (Milwaukee), with Laminal Animil
 
-June 17th. UW Madison Union Terrace, with Henry Ptacek, Maggie Cousin, Sahada Buckley, Aaron Gochberg, and Luke Leavitt
+June 17th, 4:00. UW Madison Union Terrace, with Henry Ptacek, Maggie Cousin, Sahada Buckley, Aaron Gochberg, and Luke Leavitt
 
-June 17th. Robinia Courtyard, with Sorsin Carr 'Country' (Luke Leavitt and Tim Russell)
+June 17th. Robinia Courtyard, with Sorsin Carr 'Country' (Luke Leavitt, Sahada Buckley, and Tim Russell)
 
 June 21st, 6:00. 9618 Tiercel Dr, with Adam Czerepisnki, Jon Hoel, and Henry Ptacek
 
-June 23rd. Garver Feed Mill, "Sound Tile" Series with series director Luke Leavitt
+June 23rd. Garver Feed Mill, "Sound Tile" Series via Bluestem Jazz
 
 June 25th, 11:00. Cafe Coda, Hosting Late Night Jazz Jam
 
