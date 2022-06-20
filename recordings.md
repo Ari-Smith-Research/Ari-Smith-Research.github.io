@@ -27,7 +27,7 @@ permalink: /recordings/
 
 *Laminal Animil*, Live at Woodland Pattern (Milwaukee), June 16, 2022
 
-<iframe width="100%" height="300" src="https://www.youtube.com/watch?v=s3jFFs7lf90?start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/s3jFFs7lf90?start=81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *The Hanah Jon Taylor Artet* (with Justin Dillard, Dushun Mosley, and Ari Smith), live at Cafe Coda, November 27, 2021
 
