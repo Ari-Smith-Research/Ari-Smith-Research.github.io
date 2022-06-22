@@ -30,7 +30,7 @@ June 17th, 9:00. Robinia Courtyard, with Sorsin Carr 'Country' (Luke Leavitt, Sa
 
 June 21st, 6:00. 9618 Tiercel Dr, with Adam Czerepisnki, Jon Hoel, and Henry Ptacek
 
-June 23rd, 5:00. Garver Feed Mill, "Sound Tile" Series via Bluestem Jazz
+June 24th, 5:00. Garver Feed Mill, "Sound Tile" Series via Bluestem Jazz
 
 June 25th, 11:00. Cafe Coda, Hosting Late Night Jazz Jam
 
