@@ -24,7 +24,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
-*Sad-ish Pavane for Hamish Fulton / Slowwalk for Some Distracted Times*, arrangement and extension of *'Of Species in Gradus...'* for Violinist and Cellist (after Hamish Fulton and Thomas Tomkins) - 2022, 9'
+*Sad-ish Pavane for Hamish Fulton / Slowwalk for Some Distracted Times* for Violinist and Cellist (after Hamish Fulton and Thomas Tomkins), arrangement and expansion of *'Of Species in Gradus...'* - 2022, 9'
 
 *To Attend to (Two Attend Two)* for Violinist and Cellist (after the Care Collective and Susan Leigh Star) - 2022, 10' <br />
 &emsp; commissioned by Sahada Buckley and [Trace Johnson](http://traceljohnson.com/bio/)
