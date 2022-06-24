@@ -59,7 +59,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
 
-*Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - at least 35'
+*Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - currently ~35' long
 
 \* texts used without permission
 
