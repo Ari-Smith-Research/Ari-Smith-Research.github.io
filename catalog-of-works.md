@@ -29,7 +29,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 *To Attend to (Two Attend Two)* for Violinist and Cellist (after the Care Collective and Susan Leigh Star) - 2022, 10' <br />
 &emsp; commissioned by Sahada Buckley and [Trace Johnson](http://traceljohnson.com/bio/)
 
-*Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boundary Object (After Susan Leigh Star)* for String Quartet - 2022, 17'
+*Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boundary Object (After Susan Leigh Star)* for String Quartet - 2022, 18'
 
 *If on a Winter's Night a Thrill... (After Italo Calvino)* for 2-Channel Fixed Media - 2021, 6'42"
 
@@ -56,6 +56,8 @@ Please contact me if you wish to perform a piece or get access to a score.
 *Skylines and (B-2) Spirits* for Solo Harpsichordist - 2018, 5'
 
 #### Works in Progress
+
+*Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
 
 *Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
 
