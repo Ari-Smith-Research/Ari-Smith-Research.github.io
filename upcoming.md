@@ -24,6 +24,10 @@ July 23rd, 11:00. Cafe Coda, hosting Late Night Jazz Jam
 
 July 29th, 9:00. Dark Horse Art Bar, with Songs of Love and War (with Brennan Connors and Richie Hildner)
 
+July 30th, 11:00. Cafe Coda, hosting Late Night Jazz Jam
+
+August 6th, 11:00. Cafe Coda, hosting Late Night Jazz Jam
+
 August 12th. Painted Forest (Wonewoc), Sahada Buckley and Trace Johnson perform chamber music, maybe including a piece by Ari Smith
 
 August 16th. Leopold's, duo with Luke Leavitt.
