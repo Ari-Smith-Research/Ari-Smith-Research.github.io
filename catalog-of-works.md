@@ -58,7 +58,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 #### Works in Progress
 
 *Power Tools II: T-bone Slim's Electric Coffee Grinder* for Percussionist and Saxophonist (after T-bone Slim) <br />
-&emsp; commissioned by Greg Riss
+&emsp; commissioned by Greg Riss and Joe Connor
 
 *Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
 
