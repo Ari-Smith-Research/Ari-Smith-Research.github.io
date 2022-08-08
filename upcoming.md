@@ -30,11 +30,11 @@ August 6th, 11:00. Cafe Coda, hosting Late Night Jazz Jam
 
 August 12th. Painted Forest (Wonewoc), Sahada Buckley and Trace Johnson perform chamber music, maybe including a piece by Ari Smith
 
-August 13th, 11:00. Cafe Coda, hosting Late Night Jazz Jam
-
 August 16th. Leopold's, duo with Luke Leavitt
 
 August 19th, 7:00. Cafe Coda, with Laminal Animil
+
+August 20th, 11:00. Cafe Coda, hosting Late Night Jazz Jam
 
 September 11th, 6:00. Dark Horse Art Bar, with Songs of Love and War
 
