@@ -40,6 +40,8 @@ September 11th, 6:00. Dark Horse Art Bar, with Songs of Love and War
 
 September 21st. The Tasting Room (Monona), with the Feestet
 
+September 24th. Communication Madison, with Luke Leavitt and the Levitations
+
 October 9th, 6:00. Dark Horse Art Bar, with Songs of Love and War
 
 November 16th. The Tasting Room (Monona), with the Feestet
