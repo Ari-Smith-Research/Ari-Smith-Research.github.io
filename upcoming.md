@@ -23,9 +23,13 @@ September 11th, 6:00. Dark Horse Art Bar, with Songs of Love and War
 
 September 16th. Robinia Courtyard, with Luke Leavitt and the Levitations, opening for D'Funk and the Grease Monkeys
 
+September 20th, 7-9. Leopold's, with Charlie Palm and Henry Ptacek
+
 September 21st. The Tasting Room (Monona), with the Feestet
 
-September 24th. Communication Madison, with Laminal Animil + Matt Blair
+September 24th. Communication Madison, with Laminal Animil (and a set by Matt Blair)
+
+October 6th. Cafe Coda, hosting Late Night Jazz Jam
 
 October 9th, 6:00. Dark Horse Art Bar, with Songs of Love and War
 
