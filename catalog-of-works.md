@@ -24,6 +24,9 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
+*Power Tools II: Coffee Grinder for T-bone Slim* for Percussionist and Alto Saxophonist - 2022, 7.5' <br />
+&emsp; commissioned by Greg Riss and Joe Connor
+
 *Sad-ish Pavane for Hamish Fulton / Slowwalk for Some Distracted Times* for Violinist and Cellist (after Hamish Fulton and Thomas Tomkins), arrangement and expansion of *'Of Species in Gradus...'* - 2022, 9'
 
 *To Attend to (Two Attend Two)* for Violinist and Cellist (after the Care Collective and Susan Leigh Star) - 2022, 10' <br />
@@ -57,16 +60,12 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Works in Progress
 
-*Power Tools II: Coffee Grinder for T-bone Slim* for Percussionist and Saxophonist <br />
-&emsp; commissioned by Greg Riss and Joe Connor
-
 *Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
 
 *Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
 
-*Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - currently ~35' long
-
-\* texts used without permission
+*Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - currently ~35' long <br />
+&emsp;\* texts used without permission
 
 #### Other
 
