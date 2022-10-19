@@ -28,9 +28,8 @@ In relation with these projects, I am currently an honorary appointee at UW Madi
 
 I TA or have previously TA'd:
 
+- ISyE 521 (formerly ISyE 601): Machine Learning in Action for Industrial Engineers, Fall 2022, Fall 2021, Fall 2020
 - ISyE 323: Operations Research Deterministic Models, Spring 2022
-- ISyE 521: Machine Learning in Action for Industrial Engineers, Fall 2021, Fall 2022
-- the equivalent ML course ISyE 601, Fall 2020
 
 Prior education:
 
