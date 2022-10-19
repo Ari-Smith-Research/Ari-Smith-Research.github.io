@@ -35,4 +35,12 @@ October 9th, 6:00. Dark Horse Art Bar, with Songs of Love and War
 
 October 10th. The Rigby, with Luke Leavitt and the Levitations, opening for 26 BATS!
 
+October 29th. Cafe Coda, hosting Late Night Jazz Jam
+
+November 12th. Cafe Coda, hosting Late Night Jazz Jam
+
 November 16th. The Tasting Room (Monona), with the Feestet
+
+December 2nd. Audio for the Arts, with Laminal Animil
+
+December 11th. The Crucible, with Sorsin Carr Country
