@@ -21,10 +21,10 @@ Robert Bosch, Abagael Cheng, and Ari Smith (2019). “Exploring Szpakowski’s L
 
 #### Papers Under Review
 
-Ari Smith, Brian Patterson, Michael Pulia, John Mayer, Rebecca Schwei, Radha Nagarajan, Frank Liao, Manish Shah, and Justin Boutilier. “Multisite Evaluation of Prediction Models for Emergency Department Crowding Models Before and During the COVID-19 Pandemic”. Under review at the Journal of the American Medical Informatics Association (JAMIA)
+Ari Smith, Brian Patterson, Michael Pulia, John Mayer, Rebecca Schwei, Radha Nagarajan, Frank Liao, Manish Shah, and Justin Boutilier. “Multisite Evaluation of Prediction Models for Emergency Department Crowding Models Before and During the COVID-19 Pandemic”. Under third review at the Journal of the American Medical Informatics Association (JAMIA)
 
 #### Manuscripts in Progress
 
-Ari Smith. “Preference Across Power: Algorithmic Infrastructuring of the Preferring Subject”
-
 Ari Smith and Justin Boutilier. “Generalized Inverse Mixed-Integer Optimization as a Technology for Observing Congressional Gerrymandering”
+
+Ari Smith. “Preference Across Power: Algorithmic Infrastructuring of the Preferring Subject”
