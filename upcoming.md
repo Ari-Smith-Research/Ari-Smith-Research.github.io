@@ -17,30 +17,12 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-September 7th, 3:00. Promega, with the Hanah Jon Taylor Artet
 
-September 11th, 6:00. Dark Horse Art Bar, with Songs of Love and War
+December 1st, 10:00. The Rigby, with Sorsin Carr Country
 
-September 16th. Robinia Courtyard, with Luke Leavitt and the Levitations, opening for D'Funk and the Grease Monkeys
+December 3rd. Audio for the Arts, Concert/Live Album Recording with Laminal Animil
 
-September 20th, 7-9. Leopold's, with Charlie Palm and Henry Ptacek
+December 8th. Garver Feed Mill, Bluestem's Sound Tile series with Luke Leavitt
 
-September 21st. The Tasting Room (Monona), with the Feestet
+December 21st. Common Sage, solo set in a series of interpretations of James Tenney's "For Percussion Perhaps, or ... (Night)"
 
-September 24th. Communication Madison, with Laminal Animil (and a set by Matt Blair)
-
-October 6th. Cafe Coda, hosting Late Night Jazz Jam
-
-October 9th, 6:00. Dark Horse Art Bar, with Songs of Love and War
-
-October 10th. The Rigby, with Luke Leavitt and the Levitations, opening for 26 BATS!
-
-October 29th. Cafe Coda, hosting Late Night Jazz Jam
-
-November 12th. Cafe Coda, hosting Late Night Jazz Jam
-
-November 16th. The Tasting Room (Monona), with the Feestet
-
-December 2nd. Audio for the Arts, with Laminal Animil
-
-December 11th. The Crucible, with Sorsin Carr Country
