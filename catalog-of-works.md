@@ -24,6 +24,8 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
+*Tar-Tenney Tones* for Solo Contrabassist (realization of James Tenney's *For Percussion Perhaps, or... (Night)* - 2022, 10'
+
 *Power Tools II: Coffee Grinder for T-bone Slim* for Percussionist and Alto Saxophonist - 2022, 7.5' <br />
 &emsp; commissioned by Greg Riss and Joe Connor
 
@@ -69,4 +71,4 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Other
 
-[Seare Farhat](https://searefarhat.weebly.com/)'s composition *Body Counterpoint (after Paul Valery)* for Mezzo-Soprano and Alto Flute (or Violin) (2019) sets a text of the same name that I wrote
+[Seare Farhat](https://searefarhat.com/)'s composition *Body Counterpoint (after Paul Valery)* for Mezzo-Soprano and Alto Flute (or Violin) (2019) sets a text of the same name that I wrote
