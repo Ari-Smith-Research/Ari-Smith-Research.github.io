@@ -18,11 +18,12 @@ permalink: /upcoming/
 </div>
 
 
-December 1st, 10:00. The Rigby, with Sorsin Carr Country
+January 27, 4-6 PM. The Rathskellar at UW Madison Memorial Union, with Sorsin Carr Country
 
-December 3rd. Audio for the Arts, Concert/Live Album Recording with Laminal Animil
+January 27, 10 PM. Robinia Courtyard, with Luke Leavitt and the Levitations
 
-December 8th. Garver Feed Mill, Bluestem's Sound Tile series with Luke Leavitt
+January 28, 7 PM. Communication, with Laminal Animil
 
-December 21st. Common Sage, solo set in a series of interpretations of James Tenney's "For Percussion Perhaps, or ... (Night)"
+February 10. Madison Children's Museum (Adult Swim Night), with the Laminal Animil/Brennan Connors Stray Passage combined Double Trio
 
+February 15. Tasting Room Monona, with the Feestet
