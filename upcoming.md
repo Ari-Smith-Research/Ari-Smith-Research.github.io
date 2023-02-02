@@ -18,14 +18,12 @@ permalink: /upcoming/
 </div>
 
 
-January 27, 4-6 PM. The Rathskellar at UW Madison Memorial Union, with Sorsin Carr Country
-
-January 27, 10 PM. Robinia Courtyard, with Luke Leavitt and the Levitations
-
 February 10. Madison Children's Museum (Adult Swim Night), with the Laminal Animil/Brennan Connors Stray Passage combined Double Trio
 
 February 15. Tasting Room Monona, with the Feestet
 
 February 17. Doundrin's Distilling, with the Feestet
+
+March 10. Communication Madison, with Laminal Animil
 
 April 5. Arts and Literature Lab, as part of the Mills Folly Microcinema, improvising in collaboration with Eric Theise's *A Synsthete's Atlas*
