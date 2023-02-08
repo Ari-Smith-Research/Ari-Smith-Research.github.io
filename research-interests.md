@@ -27,7 +27,7 @@ My various research interests include:
   - With an eye towards retooling preference elicitation towards understanding non-human entities as Latourian agents that hold and enact sociopolitical values
   - In conjunction with Foucauldian perspectives on Power and the Subject
 - Feminist Philosophies of Technoscience
-  - Particularly, the philosophies of Karen Barad, Susan Leigh Star, and Donna Haraway
+  - Particularly, the philosophies of Karen Barad and Susan Leigh Star
 - Conceptual Drift in Machine Learning, through an STS Lens
   - Understanding drift across differentials of time, space, social power relations, etc.
   - Potential connections to standpoint epistemologies
