@@ -26,4 +26,7 @@ February 17. Doundrin's Distilling, with the Feestet
 
 March 10. Communication Madison, with Laminal Animil
 
-April 5. Arts and Literature Lab, as part of the Mills Folly Microcinema, improvising in collaboration with Eric Theise's *A Synsthete's Atlas*
+April 5. Arts and Literature Lab, as part of the Mills Folly Microcinema, improvising in collaboration with Eric Theise's *A Synesthete's Atlas*
+
+April 7. TBD, with Luke Leavitt and the Levitations
+
