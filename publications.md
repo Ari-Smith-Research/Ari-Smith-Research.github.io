@@ -17,7 +17,7 @@ permalink: /publications/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-Ari Smith, Brian Patterson, Michael Pulia, John Mayer, Rebecca Schwei, Radha Nagarajan, Frank Liao, Manish Shah, and Justin Boutilier. “Multisite Evaluation of Prediction Models for Emergency Department Crowding Before and During the COVID-19 Pandemic”. *Journal of the American Medical Informatics Association (JAMIA)*, Volume 30, Issue 2, February 2023, Pages 292–300, https://doi.org/10.1093/jamia/ocac214
+Ari Smith, Brian Patterson, Michael Pulia, John Mayer, Rebecca Schwei, Radha Nagarajan, Frank Liao, Manish Shah, and Justin Boutilier. “Multisite Evaluation of Prediction Models for Emergency Department Crowding Before and During the COVID-19 Pandemic”. *Journal of the American Medical Informatics Association (JAMIA)*, Volume 30, Issue 2, February 2023, Pages 292–300. [DOI Link](https://doi.org/10.1093/jamia/ocac214)
 
 Robert Bosch, Abagael Cheng, and Ari Smith (2019). “Exploring Szpakowski’s Linear Ideas.” *Proceedings of Bridges 2019: Mathematics, Art, Music, Architecture, Education, Culture*. 21-28. [Link](http://archive.bridgesmathart.org/2019/bridges2019-21.html)
 
