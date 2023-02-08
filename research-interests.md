@@ -20,9 +20,11 @@ My various research interests include:
 
 - Critical Algorithm Studies
 - Applied Inverse Optimization
+  - Formulating more efficient algorithms and heuristic approaches in domain-specific applications
 - Sociotechnical Infrastructurings of Fairness and Democratic Theory
   - How algorithmic material-discursive practices engage concepts of Gerrymandering, the quantification of fairness, and redistributions of agency
 - Preference Elicitation Technologies
+  - With an eye towards retooling preference elicitation towards understanding non-human entities as Latourian agents that hold and enact sociopolitical values
   - In conjunction with Foucauldian perspectives on Power and the Subject
 - Feminist Philosophies of Technoscience
   - Particularly, the philosophies of Karen Barad, Susan Leigh Star, and Donna Haraway
