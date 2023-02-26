@@ -17,16 +17,26 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-
-February 10. Madison Children's Museum (Adult Swim Night), with the Laminal Animil/Brennan Connors Stray Passage combined Double Trio
-
-February 15. Tasting Room Monona, with the Feestet
-
-February 17. Doundrin's Distilling, with the Feestet
-
 March 10. Communication Madison, with Laminal Animil
+
+March 12. Cafe Coda, with the Henry Ptacek Sextet
 
 April 5. Arts and Literature Lab, as part of the Mills Folly Microcinema, improvising in collaboration with Eric Theise's *A Synesthete's Atlas*
 
-April 7. TBD, with Luke Leavitt and the Levitations
+April 14. Memorial Union Rathskellar, with Luke Leavitt and the Levitations
 
+April 17. Leopold's, Duo with Luke Leavitt
+
+April 19. The Tasting Room (Monona), with the Feestet
+
+April 29. The Rigby, with Luke Leavitt and the Levitations
+
+April 30. Henry Ptacek's Senior Recital
+
+May 11. The North Street Cabaret, with the Feestet
+
+June 21. The Tasting Room (Monona), with the Feestet
+
+July 21. Garver Feed Mill Patio, with Laminal Animil (sponsored by Bluestem Jazz)
+
+August 11. UW Memorial Union Terrace, with Luke Leavitt and the Levitations
