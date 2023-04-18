@@ -17,10 +17,6 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-March 10. Communication Madison, with Laminal Animil
-
-March 12. Cafe Coda, with the Henry Ptacek Sextet
-
 April 5. Arts and Literature Lab, as part of the Mills Folly Microcinema, improvising in collaboration with Eric Theise's *A Synesthete's Atlas*
 
 April 14. Memorial Union Rathskellar, with Luke Leavitt and the Levitations
@@ -34,6 +30,16 @@ April 29. The Rigby, with Luke Leavitt and the Levitations
 April 30. Henry Ptacek's Senior Recital
 
 May 11. The North Street Cabaret, with the Feestet
+
+(not a show, but) May 16. Ari Smith Preliminary Exam Defense (at UW Madison College of Engineering)
+
+LUKE AND THE LEVITATIONS WISCONSIN TOUR:
+
+  June 15. TBA, Madison, WI
+  
+  June 16. TBA, La Crosse, WI
+  
+  June 17. The Wormhole, Milwaukee, WI
 
 June 21. The Tasting Room (Monona), with the Feestet
 
