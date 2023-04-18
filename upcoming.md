@@ -29,7 +29,7 @@ April 29. The Rigby, with Luke Leavitt and the Levitations
 
 April 30. Henry Ptacek's Senior Recital
 
-May 11. The North Street Cabaret, with the Feestet
+May 11. The North Street Cabaret, with the Feestet, plus special guest Frank McKearn IV
 
 (not a show, but) May 16. Ari Smith Preliminary Exam Defense (at UW Madison College of Engineering)
 
@@ -43,6 +43,6 @@ LUKE AND THE LEVITATIONS WISCONSIN TOUR:
 
 June 21. The Tasting Room (Monona), with the Feestet
 
-July 21. Garver Feed Mill Patio, with Laminal Animil (sponsored by Bluestem Jazz)
+July 21. Garver Feed Mill Patio, with Laminal Animil (sponsored by Bluestem Jazz), potentially an album release event
 
 August 11. UW Memorial Union Terrace, with Luke Leavitt and the Levitations
