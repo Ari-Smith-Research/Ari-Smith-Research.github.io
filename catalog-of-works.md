@@ -62,6 +62,9 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Works in Progress
 
+*Grain by Grain (For Seare Farhat and Asher Wulfman)* for Tenor and Violinist
+&emsp; co-written with Carson Borbely
+
 *Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
 
 *Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
