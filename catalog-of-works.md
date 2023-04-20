@@ -24,15 +24,16 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
-*Tar-Tenney Tones* for Solo Contrabassist (realization of James Tenney's *For Percussion Perhaps, or... (Night)*) - 2022, 10'
+*Tar-Tenney Tones* for Solo Contrabassist (realization of James Tenney's *For Percussion Perhaps, or... (Night)*) - 2022, 10' [link](https://soundcloud.com/ari-smith-658926111/tar-tenney-tones-for-solo-contrabassist)
 
 *Power Tools II: Coffee Grinder for T-bone Slim* for Percussionist and Alto Saxophonist - 2022, 7.5' <br />
-&emsp; commissioned by Greg Riss and Joe Connor
+&emsp; commissioned by Greg Riss and [Joe Connor](http://www.josephconnormusic.com/)
 
-*Sad-ish Pavane for Hamish Fulton / Slowwalk for Some Distracted Times* for Violinist and Cellist (after Hamish Fulton and Thomas Tomkins), arrangement and expansion of *'Of Species in Gradus...'* - 2022, 9'
+*Sad-ish Pavane for Hamish Fulton / Slowwalk for Some Distracted Times* for Violinist and Cellist (after Hamish Fulton and Thomas Tomkins), arrangement and expansion of *'Of Species in Gradus...'* - 2022, 9' <br />
+&emsp; written for Sahada Buckley and [Trace Johnson](http://traceljohnson.com/bio/)
 
 *To Attend to (Two Attend Two)* for Violinist and Cellist (after the Care Collective and Susan Leigh Star) - 2022, 10' <br />
-&emsp; commissioned by Sahada Buckley and [Trace Johnson](http://traceljohnson.com/bio/)
+&emsp; commissioned by Sahada Buckley and Trace Johnson
 
 *Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boundary Object (After Susan Leigh Star)* for String Quartet - 2022, 18'
 
@@ -62,7 +63,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Works in Progress
 
-*Grain by Grain (For Seare Farhat and Asher Wulfman)* for Tenor and Violinist
+*Grain by Grain (For Seare Farhat and Asher Wulfman)* for Tenor and Violinist <br />
 &emsp; co-written with Carson Borbely
 
 *Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
