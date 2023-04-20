@@ -43,7 +43,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *Death and Transliteration* for Mezzo-Soprano and Cellist (text by the composer) - 2021, 2'
 
-*Sculpture Garden in Wood, Ivory, Bells, and Ceramics (After Masahiko Kimura, Jan Holschuh, Haegue Yang, and Kenneth Price respectively)* for 2-Channel Fixed Media - 2020, 6.5'
+*Post-Hylomorph: Electroacoustic Study on Sculpture (After Masahiko Kimura, Jan Holschuh, Haegue Yang, and Kenneth Price)* for 2-Channel Fixed Media - 2020, 6.5' [link](https://soundcloud.com/ari-smith-658926111/post-hylomorph-electroacoustic-study-on-sculpture-2019)
 
 *Thirteen Ways of Looking at the Same River Twice (After Heraclitus, D.T. Suzuki, and Wallace Stevens)* for String Quartet and Jazz Trio - 2020, 10'
 
