@@ -17,15 +17,15 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-June 21, 5:30. IO Arcade Bar, with Muscle Memory
-
-June 21. The Tasting Room (Monona), with the Feestet
+June 30. The Rigby, with Luke Leavitt and the Levitations
 
 July 2. Chai Point, with the Feestet
 
 July 21. Garver Feed Mill Patio, with Laminal Animil (sponsored by Bluestem Jazz), potentially an album release event
 
 July 26. Common Sage, duo set with David "Climate Walker" Henry
+
+August 9, 5:00. Jazz at Five (Madison Capitol Square), with the Feestet
 
 August 11, 4-6PM. UW Memorial Union Terrace, with Luke Leavitt and the Levitations
 
