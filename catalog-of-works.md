@@ -37,7 +37,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *Simple Machines are Also Power Tools: The Wedge as Boundary Maker and Boundary Object (After Susan Leigh Star)* for String Quartet - 2022, 18'
 
-*If on a Winter's Night a Thrill... (After Italo Calvino)* for 2-Channel Fixed Media - 2021, 6'42"
+*If on a Winter's Night a Thrill... (After Italo Calvino)* for 2-Channel Fixed Media - 2021, 6'42" [link](https://soundcloud.com/ari-smith-658926111/sets/if-on-a-summers-night-a-thrill)
 
 *Contour Without Cut (Barad in Penthesilea)* (after Karen Barad, Italo Calvino, Sam Gilliam, Bruno Latour, George Lewis, and Roscoe Mitchell) for Celesta-Player - 2021, 10'
 
@@ -59,7 +59,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *Of Species in Gradus, in Steps of my Gait* for Solo Guitarist (after John Dowland and Hamish Fulton) - 2019, 5'
 
-*Skylines and (B-2) Spirits* for Solo Harpsichordist - 2018, 5'
+*Skylines and (B-2) Spirits* for Solo Harpsichordist - 2018, 5' [link](https://soundcloud.com/ari-smith-658926111/skylines-and-b-2-spirits-for-harpsichord)
 
 #### Works in Progress
 
