@@ -17,16 +17,25 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-June 30. The Rigby, with Luke Leavitt and the Levitations
+August 8, 6-9PM. Doundrin's Distilling, with the Feestet
 
-July 2. Chai Point, with the Feestet
-
-July 21. Garver Feed Mill Patio, with Laminal Animil (sponsored by Bluestem Jazz), potentially an album release event
-
-July 26. Common Sage, duo set with David "Climate Walker" Henry
-
-August 9, 5:00. Jazz at Five (Madison Capitol Square), with the Feestet
+August 9, 5PM. Jazz at Five (Madison Capitol Square), with the Feestet
 
 August 11, 4-6PM. UW Memorial Union Terrace, with Luke Leavitt and the Levitations
 
 August 11, evening. Robinia Courtyard, with Luke Leavitt and the Levitations
+
+August 13, 8PM. Cafe Coda, Laminal Animil hosts a jam session
+
+September 15. Arts + Literature Lab, DIG jazz series, with the Feestet
+
+October 13. Dark Star Art Bar, with Muscle Memory
+
+November 4. Dark Star Art Bar, with Brennan Connors and Richie Hildner-Armacanqui
+
+February 10, 7PM. Slowpoke Cabaret, with the Feestet
+
+February 23. Memorial Union Rathskellar, with the Feestet
+
+
+
