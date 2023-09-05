@@ -17,19 +17,16 @@ permalink: /upcoming/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-August 8, 6-9PM. Doundrin's Distilling, with the Feestet
 
-August 9, 5PM. Jazz at Five (Madison Capitol Square), with the Feestet
+September 15. UW Play Circle, DIG jazz series, with the Feestet
 
-August 11, 4-6PM. UW Memorial Union Terrace, with Luke Leavitt and the Levitations
+September 21. Leopold's, duo with Frank McKearn
 
-August 11, evening. Robinia Courtyard, with Luke Leavitt and the Levitations
-
-August 13, 8PM. Cafe Coda, Laminal Animil hosts a jam session
-
-September 15. Arts + Literature Lab, DIG jazz series, with the Feestet
+October 3. The Cardinal Bar, with the Feestet
 
 October 13. Dark Star Art Bar, with Muscle Memory
+
+November 1. Art + Lit Lab, participating in Tatsuya Nakatani's Gong Orchestra
 
 November 4. Dark Star Art Bar, with Brennan Connors and Richie Hildner-Armacanqui
 
