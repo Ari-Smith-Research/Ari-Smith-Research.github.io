@@ -66,6 +66,9 @@ Please contact me if you wish to perform a piece or get access to a score.
 *Grain by Grain (For Seare Farhat and Asher Wulfman)* for Tenor and Violinist <br />
 &emsp; co-written with Carson Borbely
 
+Arrangement of a theme from *Nickel Under the Foot* (from Marc Blitzstein's *The Cradle Will Rock*) for Saxophonist and Percussionist <br />
+&emsp; intended as a bonus/companion piece alongside *Coffee Grinder for T-Bone Slim*
+
 *Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
 
 *Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
