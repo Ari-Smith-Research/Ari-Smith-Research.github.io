@@ -24,6 +24,9 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
+(Fantasia on) *Nickel Under the Foot* (from Marc Blitzstein's *The Cradle Will Rock*) for Saxophonist and Percussionist - 2023, 2' <br />
+&emsp; intended as an encore piece alongside *Coffee Grinder for T-Bone Slim*
+
 *Tar-Tenney Tones* for Solo Contrabassist (realization of James Tenney's *For Percussion Perhaps, or... (Night)*) - 2022, 10' [link](https://soundcloud.com/ari-smith-658926111/tar-tenney-tones-for-solo-contrabassist)
 
 *Power Tools II: Coffee Grinder for T-bone Slim* for Percussionist and Alto Saxophonist - 2022, 7.5' <br />
@@ -65,9 +68,6 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *Grain by Grain (For Seare Farhat and Asher Wulfman)* for Tenor and Violinist <br />
 &emsp; co-written with Carson Borbely
-
-Arrangement of a theme from *Nickel Under the Foot* (from Marc Blitzstein's *The Cradle Will Rock*) for Saxophonist and Percussionist <br />
-&emsp; intended as a bonus/companion piece alongside *Coffee Grinder for T-Bone Slim*
 
 *Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
 
