@@ -24,7 +24,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
-(Fantasia on) *Nickel Under the Foot* (from Marc Blitzstein's *The Cradle Will Rock*) for Saxophonist and Percussionist - 2023, 2' <br />
+(Fantasia on) *Nickel Under the Foot* (from Marc Blitzstein's *The Cradle Will Rock*) for Percussionist and Soprano Saxophonist - 2023, 2' <br />
 &emsp; intended as an encore piece alongside *Coffee Grinder for T-Bone Slim*
 
 *Tar-Tenney Tones* for Solo Contrabassist (realization of James Tenney's *For Percussion Perhaps, or... (Night)*) - 2022, 10' [link](https://soundcloud.com/ari-smith-658926111/tar-tenney-tones-for-solo-contrabassist)
