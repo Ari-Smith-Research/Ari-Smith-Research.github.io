@@ -24,6 +24,8 @@ November 11, 9PM. Maximum Ink Radio Show live performance, with the Feestet
 
 November 19, 7PM. Communication Madison, with Quality Time (Ari Smith & Carson Borbely)
 
+December 1 or 2. Somewhere in Urbana IL (maybe the Herbert Brun House?), premiere of *Coffee Grinder for T-Bone Slim*, performed by Joe Connor and Greg Riss.
+
 February 10, 7PM. Slowpoke Cabaret, with the Feestet
 
 February 23, 4-6PM. Memorial Union Rathskellar, with the Feestet
