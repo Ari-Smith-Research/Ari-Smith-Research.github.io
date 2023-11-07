@@ -9,6 +9,7 @@ permalink: /recordings/
   <a href="../academic-bio"><asub>Bio</asub></a>
   <a href="../research-interests"><asub>Research Interests</asub></a>
   <a href="../publications"><asub>Publications</asub></a>
+  <a href="../teaching"><asub>Teaching</asub></a>
   <a href="../Ari Smith Resume as of 2022-02-11.pdf" download><asub>Resume</asub></a>
   <atitle>Music</atitle>
   <a href="../music-bio"><asub>Bio</asub></a>
@@ -16,6 +17,8 @@ permalink: /recordings/
   <a href="../upcoming"><asub>Upcoming Events</asub></a>
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
+
+In addition to the below recordings, I have some forthcoming recordings which are seeking record labels for publication; one double-length album with Laminal Animil, and one full-length album with the Luke Leavitt Trio (Luke Leavitt, Ari Smith, Devin Drobka)
 
 *Junct*, with Tim Russell, 2020
 
