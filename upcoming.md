@@ -9,6 +9,7 @@ permalink: /upcoming/
   <a href="../academic-bio"><asub>Bio</asub></a>
   <a href="../research-interests"><asub>Research Interests</asub></a>
   <a href="../publications"><asub>Publications</asub></a>
+  <a href="../teaching"><asub>Teaching</asub></a>
   <a href="../Ari Smith Resume as of 2022-02-11.pdf" download><asub>Resume</asub></a>
   <atitle>Music</atitle>
   <a href="../music-bio"><asub>Bio</asub></a>
@@ -18,11 +19,15 @@ permalink: /upcoming/
 </div>
 
 
-November 1. Garver Feed Mill, participating in Tatsuya Nakatani's Gong Orchestra
+November 11, 3PM. Instar art market at The Rigby, with Muscle Memory
 
 November 11, 9PM. Maximum Ink Radio Show live performance, with the Feestet
 
+November 16. The Rigby, with Muscle Memory
+
 November 19, 7PM. Communication Madison, with Quality Time (Ari Smith & Carson Borbely)
+
+November 29. Communication Madison, with Cow Tools
 
 December 1 or 2. Somewhere in Urbana IL (maybe the Herbert Brun House?), premiere of *Coffee Grinder for T-Bone Slim*, performed by Joe Connor and Greg Riss.
 
