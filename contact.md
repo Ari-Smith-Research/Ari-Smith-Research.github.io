@@ -5,13 +5,13 @@ permalink: /contact/
 <div class="sidenav">
   <a href="../">Ari Smith</a>
   <a href="../contact">Contact</a>
-  <asub>Academic</asub>
+  <atitle>Academic</atitle>
   <a href="../academic-bio"><asub>Bio</asub></a>
   <a href="../research-interests"><asub>Research Interests</asub></a>
   <a href="../publications"><asub>Publications</asub></a>
   <a href="../teaching"><asub>Teaching</asub></a>
   <a href="../Ari Smith Resume as of 2022-02-11.pdf" download><asub>Resume</asub></a>
-  <asub>Music</asub>
+  <atitle>Music</atitle>
   <a href="../music-bio"><asub>Bio</asub></a>
   <a href="../recordings"><asub>Recordings</asub></a>
   <a href="../upcoming"><asub>Upcoming Events</asub></a>
