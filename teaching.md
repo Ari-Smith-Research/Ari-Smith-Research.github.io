@@ -1,5 +1,5 @@
 ---
-permalink: /academic-bio/
+permalink: /teaching/
 ---
 
 <div class="sidenav">
