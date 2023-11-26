@@ -19,17 +19,14 @@ permalink: /upcoming/
 </div>
 
 
-November 11, 3PM. Instar art market at The Rigby, with Muscle Memory
-
-November 11, 9PM. Maximum Ink Radio Show live performance, with the Feestet
-
-November 16. The Rigby, with Muscle Memory
 
 November 19, 7PM. Communication Madison, with Quality Time (Ari Smith & Carson Borbely)
 
 November 29. Communication Madison, with Cow Tools
 
-December 1 or 2. Somewhere in Urbana IL (maybe the Herbert Brun House?), premiere of *Coffee Grinder for T-Bone Slim*, performed by Joe Connor and Greg Riss.
+December 1, 7:30. Herbert Brun House, Urbana IL, premiere of *Coffee Grinder for T-Bone Slim*, performed by Joe Connor and Greg Riss.
+
+December 2, 7:30. Herbert Brun House, Urbana IL, second performance of of *Coffee Grinder for T-Bone Slim*.
 
 February 10, 7PM. Slowpoke Cabaret, with the Feestet
 
