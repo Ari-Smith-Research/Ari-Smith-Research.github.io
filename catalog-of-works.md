@@ -70,6 +70,8 @@ Please contact me if you wish to perform a piece or get access to a score.
 *Grain by Grain (For [Seare Farhat](https://searefarhat.com/) and [Asher Wulfman](http://www.asherwulfman.com/))* for Tenor and Violinist <br />
 &emsp; co-written with Carson Borbely
 
+*Power Tools III: To My Pressure Pump* for Organist (after Lorine Niedecker's poem of the same name)
+
 *Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
 
 *Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
