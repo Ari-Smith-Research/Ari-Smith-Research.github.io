@@ -25,6 +25,8 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
+*Power Tools III: To My Pressure Pump* for Organist (after Lorine Niedecker's poem of the same name) - 2024, 10'
+
 (Fantasia on) *Nickel Under the Foot* (from Marc Blitzstein's *The Cradle Will Rock*) for Percussionist and Soprano Saxophonist - 2023, 2' <br />
 &emsp; intended as an encore piece alongside *Coffee Grinder for T-Bone Slim*
 
@@ -69,8 +71,6 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *Grain by Grain (For [Seare Farhat](https://searefarhat.com/) and [Asher Wulfman](http://www.asherwulfman.com/))* for Tenor and Violinist <br />
 &emsp; co-written with Carson Borbely
-
-*Power Tools III: To My Pressure Pump* for Organist (after Lorine Niedecker's poem of the same name)
 
 *Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
 
