@@ -25,7 +25,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
-*Power Tools III: To My Pressure Pump* for Organist (after Lorine Niedecker's poem of the same name) - 2024, 10'
+*Power Tools III: To My Pressure Pump (After Lorine Niedecker)* for Organist - 2024, 10'
 
 (Fantasia on) *Nickel Under the Foot* (from Marc Blitzstein's *The Cradle Will Rock*) for Percussionist and Soprano Saxophonist - 2023, 2' <br />
 &emsp; intended as an encore piece alongside *Coffee Grinder for T-Bone Slim*
