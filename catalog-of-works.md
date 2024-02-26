@@ -25,6 +25,8 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
+*Caring Promiscuously and Experimentally (CPE)* for Violist and Harpsichord/Clavichord-Player (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*) - 2024, 9'
+
 *Power Tools III: To My Pressure Pump (After Lorine Niedecker)* for Organist - 2024, 10'
 
 (Fantasia on) *Nickel Under the Foot* (from Marc Blitzstein's *The Cradle Will Rock*) for Percussionist and Soprano Saxophonist - 2023, 2' <br />
@@ -73,8 +75,6 @@ Please contact me if you wish to perform a piece or get access to a score.
 &emsp; co-written with Carson Borbely
 
 *Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
-
-*Caring Promiscuously and Experimentally (CPE)* for Violinist and Keyboardist (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*)
 
 *Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - currently ~35' long <br />
 &emsp;\* texts used without permission
