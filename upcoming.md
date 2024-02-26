@@ -32,5 +32,7 @@ February 10, 7PM. Slowpoke Cabaret, with the Feestet
 
 February 23, 4-6PM. Memorial Union Rathskellar, with the Feestet
 
+March 9. North Street Cabaret, with the Feestet
+
 
 
