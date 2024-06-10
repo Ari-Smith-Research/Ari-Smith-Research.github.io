@@ -20,15 +20,17 @@ permalink: /research-interests/
 My various research interests include:
 
 - Critical Algorithm Studies
+  - Algorithmic fairness, especially approaches that are not "one-size-fits-all"
 - Applied Inverse Optimization
-  - Formulating more efficient algorithms and heuristic approaches in domain-specific applications
-- Sociotechnical Infrastructurings of Fairness and Democratic Theory
-  - How algorithmic material-discursive practices engage concepts of Gerrymandering, the quantification of fairness, and redistributions of agency
+  - Formulating more efficient algorithms, and heuristic approaches in domain-specific applications
+  - Applications of inverse optimization in observing gerrymandering in legislative districts
+  - Applications of inverse optimization in measuring dataset imbalance in Machine Learning models
 - Preference Elicitation Technologies
-  - With an eye towards retooling preference elicitation towards understanding non-human entities as Latourian agents that hold and enact sociopolitical values
-  - In conjunction with Foucauldian perspectives on Power and the Subject
+  - With an eye towards retooling preference elicitation towards understanding non-human entities as Latourian agents that hold and enact values
+  - Politics of labeling practices in preference elicitation methods
+- Applied Machine Learning, and STS Perspectives on Being a Practitioner of ML
+  - Conceptual/data drift, and how it arises and is managed
+  - "Articulation work" in quanitizing settings into which ML is introduced
 - Feminist Philosophies of Technoscience
   - Particularly, the philosophies of Karen Barad and Susan Leigh Star
-- Conceptual Drift in Machine Learning, through an STS Lens
-  - Understanding drift across differentials of time, space, social power relations, etc.
-  - Potential connections to standpoint epistemologies
+
