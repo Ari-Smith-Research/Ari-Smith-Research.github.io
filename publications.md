@@ -18,12 +18,16 @@ permalink: /publications/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
+#### Published Papers
+
 Ari Smith, Brian Patterson, Michael Pulia, John Mayer, Rebecca Schwei, Radha Nagarajan, Frank Liao, Manish Shah, and Justin Boutilier. “Multisite Evaluation of Prediction Models for Emergency Department Crowding Before and During the COVID-19 Pandemic”. *Journal of the American Medical Informatics Association (JAMIA)*, Volume 30, Issue 2, February 2023, Pages 292–300. [DOI Link](https://doi.org/10.1093/jamia/ocac214)
 
 Robert Bosch, Abagael Cheng, and Ari Smith (2019). “Exploring Szpakowski’s Linear Ideas.” *Proceedings of Bridges 2019: Mathematics, Art, Music, Architecture, Education, Culture*. 21-28. [Link](http://archive.bridgesmathart.org/2019/bridges2019-21.html)
 
-#### Manuscripts in Progress
+#### Submitted Papers
 
-Ari Smith and Justin Boutilier. “Generalized Inverse Mixed-Integer Optimization as a Technology for Observing Congressional Gerrymandering.” Aimed at a *Operations Research*-type journal.
+Ari Smith and Justin Boutilier. [“Gap-gradient methods for solving generalized mixed integer inverse optimization: an application to political gerrymandering,”](https://arxiv.org/abs/2406.09457) 2024.
+
+#### Manuscripts in Progress
 
 Ari Smith. “Preference Across Power: Algorithmic Infrastructuring of the Preferring Subject.” Aimed at a *Big Data and Society* or *Science, Technology, and Human Values* -type journal.
