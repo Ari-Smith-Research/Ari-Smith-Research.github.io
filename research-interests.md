@@ -30,7 +30,7 @@ My various research interests include:
   - Politics of labeling practices in preference elicitation methods
 - Applied Machine Learning, and STS Perspectives on Being a Practitioner of ML
   - Conceptual/data drift, and how it arises and is managed
-  - "Articulation work" in quanitizing settings into which ML is introduced
+  - "Articulation work" in quantizing settings into which ML is introduced
 - Feminist Philosophies of Technoscience
   - Particularly, the philosophies of Karen Barad and Susan Leigh Star
 
