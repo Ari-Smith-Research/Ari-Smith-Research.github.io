@@ -19,20 +19,23 @@ permalink: /upcoming/
 </div>
 
 
+June 28. Communication Madison, with Curb Furniture
 
-November 19, 7PM. Communication Madison, with Quality Time (Ari Smith & Carson Borbely)
+June 29. Cafe Coda, with the Songs Trio (Brennan Connors and Richie Hildner)
 
-November 29. Communication Madison, with Cow Tools
+July 6. Cafe Coda, with ASTRO (Anders Svanoe Big Band)
 
-December 1, 7:30. Herbert Brun House, Urbana IL, premiere of *Coffee Grinder for T-Bone Slim*, performed by Joe Connor and Greg Riss.
+July 14 6-10PM. North Street Cabaret, Feestet hosts Jazz Jam
 
-December 2, 7:30. Herbert Brun House, Urbana IL, second performance of of *Coffee Grinder for T-Bone Slim*.
+July 19. Common Sage, with Julian Lynch and Tim Russell
 
-February 10, 7PM. Slowpoke Cabaret, with the Feestet
+July 27. Atwood Fest, with Feestet
 
-February 23, 4-6PM. Memorial Union Rathskellar, with the Feestet
+August 11, 2PM. McPike Sessions, with Feestet
 
-March 9. North Street Cabaret, with the Feestet
+August 11, 6-10PM. North Street Cabaret, Feestet hosts Jazz Jam
 
+August 31. Cafe Coda, with Luke Leavitt and Devin Drobka
 
+September 5. The Rigby, with Luke and the Levitations
 
