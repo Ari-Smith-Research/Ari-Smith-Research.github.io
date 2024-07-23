@@ -71,6 +71,9 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Works in Progress
 
+*Power Tools IV: (de la Bibliotheque) au Bilboquet* for Hornist and Contrabassist <br />
+&emsp; written for Declan Mulkerin
+
 *Grain by Grain (For [Seare Farhat](https://searefarhat.com/) and [Asher Wulfman](http://www.asherwulfman.com/))* for Tenor and Violinist <br />
 &emsp; co-written with Carson Borbely
 
