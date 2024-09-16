@@ -18,7 +18,15 @@ permalink: /recordings/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-In addition to the below recordings, I have some forthcoming recordings which are seeking record labels for publication; one double-length album with Laminal Animil, and one full-length album with the Luke Leavitt Trio (Luke Leavitt, Ari Smith, Devin Drobka)
+In addition to the below recordings, I have a forthcoming double-length album with Laminal Animil, which is seeking a record label for publication.
+
+*Cruel Optimism*, with Luke Leavitt and Devin Drobka, 2024
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2963885695/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://lukeleavitt.bandcamp.com/album/cruel-optimism">Cruel Optimism by Luke Leavitt</a></iframe>
+
+*Feestet*, (self-titled), 2023
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1677559607/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://feestet.bandcamp.com/album/feestet">Feestet by Feestet</a></iframe>
 
 *Junct*, with Tim Russell, 2020
 
