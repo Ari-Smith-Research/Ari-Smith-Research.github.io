@@ -22,6 +22,7 @@ I am a Ph.D. student at UW-Madison (since Fall 2019) in the department of Indust
 
 Current projects are focused on:
  - inverse optimization as a method of observing/framing congressional gerrymandering
+ - inverse optimization as a method for detecting imbalanced training sets in machine learning models
  - machine learning for predicting hospital emergency department crowding, and model transferability/drift across settings affected by covid-19
  - feminist technoscience analyses of the infrastructures and deployments of preference elicitation algorithms.
   
