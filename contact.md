@@ -21,5 +21,3 @@ permalink: /contact/
 I can be contacted the following ways:
 
 email: ajsmith44 \[at\] wisc \[dot\] edu
-
-phone: 216 - 319 - 0501
