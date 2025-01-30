@@ -18,6 +18,8 @@
   <a href="catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-<a href="Teaching Demo Slides.pdf" download>Teaching Demo Slides</a>
-<a href="DailyKos Clustering Example.ipynb" download>Teaching Demo File 1</a>
-<a href="DailyKos.csv" download>Teaching Demo File 2</a>
+# <a href="Teaching Demo Slides.pdf" download>Teaching Demo Slides</a>
+
+# <a href="DailyKos Clustering Example.ipynb" download>Teaching Demo File 1</a>
+
+# <a href="DailyKos.csv" download>Teaching Demo File 2</a>
