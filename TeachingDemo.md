@@ -23,3 +23,5 @@
 # <a href="DailyKos Clustering Example.ipynb" download>Teaching Demo Notebook File</a>
 
 # <a href="DailyKos.csv" download>Teaching Demo Data File</a>
+
+# <a href="DailyKos Clustering Example.html" download>HTML Export of Notebook</a>
