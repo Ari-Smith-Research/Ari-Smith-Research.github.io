@@ -5,7 +5,7 @@
 <div class="sidenav">
   <a href="">Ari Smith</a>
   <a href="contact">Contact</a>
-  <a href="TeachingDemo" download>Teaching Demo Files</a>
+  <a href="TeachingDemo">Teaching Demo Files</a>
   <atitle href="academic-bio">Academic</atitle>
   <a href="academic-bio"><asub>Bio</asub></a>
   <a href="research-interests"><asub>Research Interests</asub></a>
