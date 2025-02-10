@@ -5,9 +5,7 @@
 <div class="sidenav">
   <a href="">Ari Smith</a>
   <a href="contact">Contact</a>
-  <a href="Teaching Demo Slides.pdf" download>Teaching Demo Slides</a>
-  <a href="DailyKos Clustering Example.ipynb" download>Teaching Demo File 1</a>
-  <a href="DailyKos.csv" download>Teaching Demo File 2</a>
+  <a href="TeachingDemo" download>Teaching Demo Files</a>
   <atitle href="academic-bio">Academic</atitle>
   <a href="academic-bio"><asub>Bio</asub></a>
   <a href="research-interests"><asub>Research Interests</asub></a>
