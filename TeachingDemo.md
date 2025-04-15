@@ -18,6 +18,10 @@
   <a href="catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-# <a href="UST Teaching Demo.pdf" download>Teaching Demo Slides</a>
+# <a href="St Kates Teaching Demo.pptx" download>Teaching Demo Slides</a>
 
-# <a href="Barley T test example.xlsx" download>Teaching Demo Excel File</a>
+# <a href="Wine_Example.ipynb" download>Teaching Demo Code File</a>
+
+# <a href="Wine.csv" download>Teaching Demo Data File</a>
+
+# <a href="Lecture0.pdf" download>Supplemental Lecture Notes</a>
