@@ -25,3 +25,9 @@
 # <a href="Wine.csv" download>Teaching Demo Data File</a>
 
 # <a href="Lecture0.pdf" download>Supplemental Lecture Notes</a>
+
+### <a href="Lab0.ipynb" download>Supplemental Code File: Python for Data Science</a>
+
+### <a href="adult.csv" download>Supplemental Code Data File 1</a>
+
+### <a href="smalldata.csv" download>Supplemental Code Data File 2</a>
