@@ -18,16 +18,10 @@
   <a href="catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-# <a href="St Kates Teaching Demo.pptx" download>Teaching Demo Slides</a>
+# <a href="UWRF teaching demo.pptx" download>Teaching Demo Slides</a>
 
-# <a href="Wine_Example.ipynb" download>Teaching Demo Code File</a>
+# <a href="DailyKos Clustering Example.ipynb" download>Teaching Demo Code File</a>
 
-# <a href="Wine.csv" download>Teaching Demo Data File</a>
+# <a href="DailyKos.csv" download>Teaching Demo Data File</a>
 
-# <a href="Lecture0.pdf" download>Supplemental Lecture Notes</a>
-
-### <a href="Lab0.ipynb" download>Supplemental Code File: Python for Data Science</a>
-
-### <a href="adult.csv" download>Supplemental Code Data File 1</a>
-
-### <a href="smalldata.csv" download>Supplemental Code Data File 2</a>
+# <a href="UWRF Research Slides.pptx" download>Research Slides</a>
