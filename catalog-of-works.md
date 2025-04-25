@@ -25,7 +25,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
-*Sarabande* for Solo Keyboardist - 2025, 8'
+*Sarabande* for Solo Keyboardist - 2025, 8' [link](https://soundcloud.com/ari-smith-658926111/sarabande)
 
 *Power Tools IV: (de la Bibliotheque) au Bilboquet* for Hornist and Contrabassist - 2024, 9' <br />
 &emsp; written for Declan Mulkerin
