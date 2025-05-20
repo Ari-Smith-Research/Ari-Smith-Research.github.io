@@ -18,17 +18,15 @@ permalink: /academic-bio/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-I am a Ph.D. student at UW-Madison (since Fall 2019) in the department of Industrial and Systems Engineering, with a doctoral minor in Science and Technology Studies, under the advising of professor Justin Boutilier. My academic interests include critical algorithm studies, sociotechnical infrastructures of algorithms and fairness in public policy and democratic theory, feminist philosophies of science and technology, and relations between preference, agency, and subject formation in systems of humans and optimization technologies.
+I recently completed my Ph.D. at UW-Madison in the department of Industrial and Systems Engineering, with a doctoral minor in Science and Technology Studies, under the advising of professor Justin Boutilier. My academic interests include; methods and applications in inverse optimization, with a focus on fairness and positive societal impact; critical algorithms studies; preference elicitation models and recommender systems; machine learning and fair decision-making.
 
-Current projects are focused on:
+Current research projects are focused on:
  - inverse optimization as a method of observing/framing congressional gerrymandering
  - inverse optimization as a method for detecting imbalanced training sets in machine learning models
- - machine learning for predicting hospital emergency department crowding, and model transferability/drift across settings affected by covid-19
- - feminist technoscience analyses of the infrastructures and deployments of preference elicitation algorithms.
-  
-In relation with these projects, I am currently an honorary appointee at UW Madison's Department of Emergency Medicine, a data science intern at UW Health Enterprise Analytics, and a Graduate Student Affiliate at the Holtz Center for Science and Technology Studies.
+ - developement of a recommender system for caregivers of people with Alzheimer's disease and related dementias
 
-Prior education:
+Education:
 
-- Oberlin College, B.A. in Math, minor in Computer Science, 2019
-- Oberlin Conservatory, B.Mus. in Jazz Studies (Bass Performance), with secondary study in Classical Composition, 2019
+- Ph.D. in Industrial and Systems Engineering, minor in Science and Technology Studies, University of Wisconsin, Madison, 2025
+- B.A. in Math, minor in Computer Science, Oberlin College, 2019
+- B.Mus. in Jazz Studies (Bass Performance), with secondary study in Classical Composition, Oberlin Conservatory, 2019
