@@ -25,6 +25,7 @@ My various research interests include:
   - Formulating more efficient algorithms, and heuristic approaches in domain-specific applications
   - Applications of inverse optimization in observing gerrymandering in legislative districts
   - Applications of inverse optimization in measuring dataset imbalance in Machine Learning models
+  - Discovery of new application areas of inverse optimization with an eye towards fairness
 - Preference Elicitation Technologies
   - With an eye towards retooling preference elicitation towards understanding non-human entities as Latourian agents that hold and enact values
   - Politics of labeling practices in preference elicitation methods
