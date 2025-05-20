@@ -10,7 +10,7 @@ permalink: /catalog-of-works/
   <a href="../research-interests"><asub>Research Interests</asub></a>
   <a href="../publications"><asub>Publications</asub></a>
   <a href="../teaching"><asub>Teaching</asub></a>
-  <a href="../Ari Smith Resume as of 2022-02-11.pdf" download><asub>Resume</asub></a>
+  <a href="../Ari Smith Resume as of 05-19-2025.pdf" download><asub>Resume</asub></a>
   <atitle>Music</atitle>
   <a href="../music-bio"><asub>Bio</asub></a>
   <a href="../recordings"><asub>Recordings</asub></a>
