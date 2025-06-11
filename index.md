@@ -21,6 +21,10 @@
 <img src="DSC0289.jpg" width="450" height="300">
 
 # Ari Smith, Ph.D.
+
+## Assistant Professor of Computer, Information, and Data Sciences
+## University of Wisconsin, River Falls
+
 ### Academic (Operations Research, STS), Composer, Improviser
-#### Industral and Systems Engineering - UW Madison
+
 #### [Analytics for Human Development Lab (A4HD)](https://a4hd.github.io)
