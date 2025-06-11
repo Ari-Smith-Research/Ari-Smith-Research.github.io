@@ -22,7 +22,7 @@ My various research interests include:
 - Critical Algorithm Studies
   - Algorithmic fairness, especially approaches that are not "one-size-fits-all"
 - Applied Inverse Optimization
-  - Formulating more efficient algorithms, and heuristic approaches in domain-specific applications
+  - Formulating more efficient solution algorithms, modeling methods, and heuristic approaches in domain-specific applications
   - Applications of inverse optimization in observing gerrymandering in legislative districts
   - Applications of inverse optimization in measuring dataset imbalance in Machine Learning models
   - Discovery of new application areas of inverse optimization with an eye towards fairness
