@@ -20,7 +20,15 @@ permalink: /recordings/
 
 In addition to the below recordings, I have a forthcoming double-length album with Laminal Animil, which is seeking a record label for publication.
 
-*Cruel Optimism*, with Luke Leavitt and Devin Drobka, 2024
+*Power Tools II: Coffee Grinder for T-bone Slim*, performed by Greg Riss and Joe Connor at the Turn Around Concert Series in Champaign IL, 12/2/2023
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/45t_ISW6QEs?si=cEa3U1WtWuFEHEkL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Trio Improvisation with Matt Blair (p) and Tim Russell (perc/elec), at the Jazz Gallery Center for the Arts, Milwaukee WI, 03/21/2025
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/K5Y30JjKt8Q?si=phvrEMBpm-CYtaSX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Cruel Optimism*, with Luke Leavitt (p) and Devin Drobka (d), published by Eternal Curl Records, 2024
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2963885695/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://lukeleavitt.bandcamp.com/album/cruel-optimism">Cruel Optimism by Luke Leavitt</a></iframe>
 
