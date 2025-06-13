@@ -18,7 +18,7 @@ permalink: /academic-bio/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
-I recently completed my Ph.D. at UW-Madison in the department of Industrial and Systems Engineering, with a doctoral minor in Science and Technology Studies, under the advising of professor Justin Boutilier. My academic interests include; methods and applications in inverse optimization, with a focus on fairness and positive societal impact; critical algorithms studies; preference elicitation models and recommender systems; machine learning and fair decision-making.
+I am an Assistant Professor of Computer, Information, and Data Science at the Univeristy of Wisconsin, River Falls. I recently completed my Ph.D. at UW-Madison in the department of Industrial and Systems Engineering, with a doctoral minor in Science and Technology Studies, under the advising of professor [Justin Boutilier](https://a4hd.github.io/). My academic interests include; methods and applications in inverse optimization, with a focus on fairness and positive societal impact; critical algorithms studies; preference elicitation models and recommender systems; machine learning and fair decision-making.
 
 Current research projects are focused on:
  - inverse optimization as a method of observing/framing congressional gerrymandering
