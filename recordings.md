@@ -52,6 +52,10 @@ Trio Improvisation with Matt Blair (p) and Tim Russell (perc/elec), at the Jazz 
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/ecuF1mrfuhY?start=292" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Home Organ Recital*, 2024
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2882810492/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://arismith.bandcamp.com/album/home-organ-recital">Home Organ Recital by Ari Smith</a></iframe>
+
 *Organ Trios*, with various friends, 2019
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2449530586/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://arismith.bandcamp.com/album/organ-trios-2">Organ Trios by Ari Smith</a></iframe>
