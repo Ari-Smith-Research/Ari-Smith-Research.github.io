@@ -25,6 +25,12 @@ May 30. Communication Madison, with Curb Furniture
 
 June 8. North Street Cabaret, hosting jazz jam with Feestet
 
+June 18. Gamma Ray Bar, Observatory experimental series, with Andy Fitzpatrick and Tim Russell
+
 June 19. Full Mile Beer Co, with Feestet
 
 July 13. North Street Cabaret, hosting jazz jam with Feestet
+
+August 10. Lake Edge Park, with Feestet
+
+August 10. North Street Cabaret, hosting jazz jam with Feestet
