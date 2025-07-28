@@ -30,6 +30,8 @@ Please contact me if you wish to perform a piece or get access to a score.
 *Power Tools IV: (de la Bibliotheque) au Bilboquet* for Hornist and Contrabassist - 2024, 9' <br />
 &emsp; written for Declan Mulkerin
 
+*Letter from Home* for any Solo Instrumentalist with a 3-octave range (e.g. violin, clarinet, guitar, horn) - 2024, 5.5'
+
 *Caring Promiscuously and Experimentally (CPE)* for Violist and Harpsichord/Clavichord-Player (after C.P.E. Bach's *Empfindungen* and the Care Collective's *Care Manifesto*) - 2024, 9'
 
 *Power Tools III: To My Pressure Pump (After Lorine Niedecker)* for Organist - 2024, 10'
