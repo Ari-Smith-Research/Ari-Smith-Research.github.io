@@ -20,6 +20,10 @@ permalink: /recordings/
 
 In addition to the below recordings, I have a forthcoming double-length album with Laminal Animil, which is seeking a record label for publication.
 
+*Curb Furniture* full set at Communication, Madison, WI, 5/30/2025
+
+<iframe width="100%" height="180" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2162024709&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ari-smith-658926111" title="Ari Smith" target="_blank" style="color: #cccccc; text-decoration: none;">Ari Smith</a> · <a href="https://soundcloud.com/ari-smith-658926111/curb-furniture-live-at-communication-5302025" title="Curb Furniture live at Communication 5/30/2025" target="_blank" style="color: #cccccc; text-decoration: none;">Curb Furniture live at Communication 5/30/2025</a></div>
+
 *Power Tools II: Coffee Grinder for T-bone Slim*, performed by Greg Riss and Joe Connor at the Turn Around Concert Series in Champaign IL, 12/2/2023
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/45t_ISW6QEs?si=cEa3U1WtWuFEHEkL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
