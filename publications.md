@@ -30,11 +30,13 @@ Robert Bosch, Abagael Cheng, and Ari Smith (2019). “Exploring Szpakowski’s L
 
 Ari Smith and Justin Boutilier. [“Gap-gradient methods for solving generalized mixed integer inverse optimization: an application to political gerrymandering,”](https://arxiv.org/abs/2406.09457) 2024. Under first-round revision
 
+#### Submitted Papers
+
+Ari Smith, Justin Boutilier, Yonatan Mintz, Christian Elliot, Matthew Zuraw, and Nicole Werner. “A recommender system for caregivers of individuals with Alzheimer’s and related dementias.” 2025
+
 #### Manuscripts in Progress
 
-Ari Smith, Justin Boutilier. “Using Inverse Optimization to Detect Biased Training Sets in Machine Learning Predictors.” Aimed at
-
-Justin Boutilier, Ari Smith, Yonatan Mintz, Christian Elliot, Matthew Zuraw, and Nicole Werner. “A recommender system for caregivers of individuals with Alzheimer’s and related dementias.”
+Ari Smith, Justin Boutilier. “Using Inverse Optimization to Detect Biased Training Sets in Machine Learning Predictors.”
 
 Ari Smith. “Preference Across Power: Algorithmic Infrastructuring of the Preferring Subject.” Aimed at a *Big Data and Society* or *Science, Technology, and Human Values* -type journal.
 
