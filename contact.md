@@ -20,4 +20,4 @@ permalink: /contact/
 
 I can be contacted the following ways:
 
-email: ajsmith44 \[at\] wisc \[dot\] edu
+email: ari \[dot\] smith \[at\] uwrf \[dot\] edu
