@@ -25,6 +25,9 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
+*Grain by Grain (For [Seare Farhat](https://searefarhat.com/) and [Asher Wulfman](http://www.asherwulfman.com/))* for Tenor and Violinist - 2025 <br />
+&emsp; co-written with Carson Borbely
+
 *Sarabande* for Solo Keyboardist - 2025, 8' [link](https://soundcloud.com/ari-smith-658926111/sarabande)
 
 *Power Tools IV: (de la Bibliotheque) au Bilboquet* for Hornist and Contrabassist - 2024, 9' <br />
@@ -78,10 +81,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Works in Progress
 
-*Grain by Grain (For [Seare Farhat](https://searefarhat.com/) and [Asher Wulfman](http://www.asherwulfman.com/))* for Tenor and Violinist <br />
-&emsp; co-written with Carson Borbely
-
-*Joined Subjects and Grazed Knowledges (JS & GK)* for Piano Four Hands (after Gyorgy Kurtag's transcriptions of J.S. Bach)
+(title pending) an extension on J.S. Bach's Brandenburg no. 1 Adagio, inspired by Jonathan Kramer's writing on multiply directed linear time, for 3 oboes, strings, and basso continuo - 9'
 
 *Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - currently ~35' long <br />
 &emsp;\* texts used without permission
