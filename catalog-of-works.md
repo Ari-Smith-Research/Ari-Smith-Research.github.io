@@ -81,7 +81,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Works in Progress
 
-(title pending) an extension on J.S. Bach's Brandenburg no. 1 Adagio, inspired by Jonathan Kramer's writing on multiply directed linear time, for 3 oboes, strings, and basso continuo - 9'
+(title pending) an extension on J.S. Bach's Brandenburg no. 1 Adagio, inspired by Jonathan Kramer's writing on multiply directed linear time, for 3 oboes, strings, and basso continuo - ca. 9' (on top of the Adagio's original length)
 
 *Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - currently ~35' long <br />
 &emsp;\* texts used without permission
