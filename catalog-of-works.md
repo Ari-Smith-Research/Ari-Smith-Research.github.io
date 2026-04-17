@@ -30,7 +30,7 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 *Sarabande* for Solo Keyboardist - 2025, 8' [link](https://soundcloud.com/ari-smith-658926111/sarabande)
 
-*Power Tools IV: (de la Bibliotheque) au Bilboquet* for Hornist and Contrabassist - 2024, 9' <br />
+*Power Tools IV: (de la Bibliotheque) au Bilboquet* for Hornist and Contrabassist in 13-limit Extended Just Intonation - 2024, 9' <br />
 &emsp; written for Declan Mulkerin
 
 *Letter from Home* for any Solo Instrumentalist with a 3-octave range (e.g. violin, clarinet, guitar, horn) - 2024, 5.5'
