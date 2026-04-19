@@ -25,6 +25,11 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
+*The Inter-States of Brandenburg and Minnesconsin* an extended coda to J.S. Bach's Brandenburg no. 1 Adagio, 2026, <br />
+&emsp; for (at minimum) 3 Oboes, 2 Violins, Viola, and Continuo, <br />
+&emsp; ca. 8', or twice that with repeats for continuo embellishments (on top of the Adagio's original length), <br />
+&emsp; inspired by Jonathan Kramer's writing on multiply-directed time, and my current living situation
+
 *Grain by Grain (For [Seare Farhat](https://searefarhat.com/) and [Asher Wulfman](http://www.asherwulfman.com/))* for Tenor and Violinist - 2025 <br />
 &emsp; co-written with Carson Borbely
 
@@ -80,8 +85,6 @@ Please contact me if you wish to perform a piece or get access to a score.
 *Skylines and (B-2) Spirits* for Solo Harpsichordist - 2018, 5' [link](https://soundcloud.com/ari-smith-658926111/skylines-and-b-2-spirits-for-harpsichord)
 
 #### Works in Progress
-
-(title pending) an extension on J.S. Bach's Brandenburg no. 1 Adagio, inspired by Jonathan Kramer's writing on multiply directed linear time, for 3 oboes, strings, and basso continuo - ca. 9' (on top of the Adagio's original length)
 
 *Fragments of a Lover's Discourse: Cento-Madrigali*, Book of Madrigals for SATTB, or SATB plus Instrumentalist (texts by Roland Barthes\*, Alain de Lille, Marianne Moore, Giordano Bruno, Octavio Paz\*, St. John of the Cross, Jaden Smith) - currently ~35' long <br />
 &emsp;\* texts used without permission
