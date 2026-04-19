@@ -25,9 +25,9 @@ Please contact me if you wish to perform a piece or get access to a score.
 
 #### Selected Completed Works (in Reverse Chronological Order)
 
-*The Inter-States of Brandenburg and Minnesconsin,* an extended coda to J.S. Bach's Brandenburg no. 1 Adagio, for (at minimum) 3 Oboes, 2 Violins, Viola, and Continuo, <br />
-&emsp; ca. 8', or twice that with repeats for continuo embellishments, 2026, <br />
-&emsp; inspired by Jonathan Kramer's *The Time of Music*, and my current living situation
+*The Inter-States of Brandenburg and Minnesconsin,* an extended coda to J.S. Bach's Brandenburg no. 1 Adagio, for (at minimum) 3 Oboes, 2 Violins, Viola, and Continuo, 2026, <br />
+&emsp; ca. 8', or twice that with repeats for continuo embellishments, <br />
+&emsp; after Jonathan Kramer's *The Time of Music*, and my current living situation
 
 *Grain by Grain (For [Seare Farhat](https://searefarhat.com/) and [Asher Wulfman](http://www.asherwulfman.com/))* for Tenor and Violinist - 2025 <br />
 &emsp; co-written with Carson Borbely
