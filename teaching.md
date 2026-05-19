@@ -18,6 +18,7 @@ permalink: /teaching/
   <a href="../catalog-of-works"><asub>Catalog of Scores</asub></a>
 </div>
 
+<!--
 At UW Madison, I am currently the primary instructor for ISyE 521: Machine Learning in Action for Industrial Engineers.
 
 ISyE 521 is a class for both undergraduate and graduate students, and this semester the current enrollement is 55 students, with approximately 50% each of undergraduate and masters students and a small handful of Ph.D. students. The primary content of the course concerns how to be a successful applied practitioner of machine learning, focusing on a critical awareness about how knowledge of machine learning methods and personal expertise in an application domain in question inform and guide each other to be as successful as possible in knowing how to ask and answer the most important and insightful research questions.
@@ -31,4 +32,17 @@ Beyond primary instruction of courses, I have previously TA'd:
 - ISyE 521 (formerly ISyE 601): Machine Learning in Action for Industrial Engineers, Fall 2022, Fall 2021, Fall 2020
 - ISyE 417: Health Systems Engineering, Spring 2023
 - ISyE 210: Introduction to Industrial Statistics, Fall 2022
-- ISyE 323: Operations Research Deterministic Models, Spring 2022
+- ISyE 323: Operations Research Deterministic Models, Spring 2022 
+-->
+
+At UW River Falls, I teach courses in both the Computer, Information, and Data Sciences department and in the Management department, mostly teaching coursework in data science, data analytics, and artificial intelligence, at both the Undergraduate and Masters levels. To date I have taught the following courses at UWRF, many of which I have taught with materials that I designed from scratch (denoted with a *).
+
+CIDS 215: Data Science For Everyone
+CIDS 239: Intro to Applied Data Science
+*CIDS 289/MNGT 389: Business AI
+*CIDS 451: Artificial Intelligence
+*CIDS 733: Computing for Data Science and Big Data Analysis
+*MNGT 750: Business Analytics
+
+Beyond River Falls, I was also primary instructor of ISYE 521: Machine Learning in Action at UW Madison in the years 2024-2026
+
