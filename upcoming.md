@@ -19,18 +19,20 @@ permalink: /upcoming/
 </div>
 
 
-May 29. Cafe Coda, with the Peter Mathistad Quintet
+June 19. Obbink Distilling, St Joseph MN, with the Feestet
 
-May 30. Communication Madison, with Curb Furniture
+July 12. North Street Cabaret (Madison WI), hosting jazz jam with Feestet
 
-June 8. North Street Cabaret, hosting jazz jam with Feestet
+LAMINAL ANIMIL ALBUM RELEASE TOUR:
 
-June 18. Gamma Ray Bar, Observatory experimental series, with Andy Fitzpatrick and Tim Russell
+July 30. Resource, Minneapolis MN (sharing a bill with Adam Zahller)
 
-June 19. Full Mile Beer Co, with Feestet
+July 31. The Meltdown, Stevens Point WI
 
-July 13. North Street Cabaret, hosting jazz jam with Feestet
+August 2. Bridgeport Music Collective, Chicago IL
 
-August 10. Lake Edge Park, with Feestet
+August 3. North Street Cabaret, Madison WI
 
-August 10. North Street Cabaret, hosting jazz jam with Feestet
+MORE TBA
+
+August 21. Hard Rock Casino, Rockford IL, with the Feestet
