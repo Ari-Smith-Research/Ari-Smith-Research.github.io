@@ -35,13 +35,18 @@ Beyond primary instruction of courses, I have previously TA'd:
 - ISyE 323: Operations Research Deterministic Models, Spring 2022 
 -->
 
-At UW River Falls, I teach courses in both the Computer, Information, and Data Sciences department and in the Management department, mostly teaching coursework in data science, data analytics, and artificial intelligence, at both the Undergraduate and Masters levels. To date I have taught the following courses at UWRF, many of which I have taught with materials that I designed from scratch (denoted with a *).
+At UW River Falls, I teach courses in both the Computer, Information, and Data Sciences department and in the Management department, mostly teaching coursework in data science, data analytics, and artificial intelligence, at both the Undergraduate and Masters levels. To date I have taught the following courses at UWRF, many of which I have taught with materials that I designed from scratch (denoted with a *):
 
 CIDS 215: Data Science For Everyone
+
 CIDS 239: Intro to Applied Data Science
+
 *CIDS 289/MNGT 389: Business AI
+
 *CIDS 451: Artificial Intelligence
+
 *CIDS 733: Computing for Data Science and Big Data Analysis
+
 *MNGT 750: Business Analytics
 
 Beyond River Falls, I was also primary instructor of ISYE 521: Machine Learning in Action at UW Madison in the years 2024-2026
